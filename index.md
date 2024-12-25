@@ -3,8 +3,6 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 # IROS2025 Workshop
 ## Advanced Haptic Technologies for Healthcare Robots
 
-## Test 1225 
-
 <!-- <p align='center'>
 <img src="https://honghaolyu.github.io/intercontinental-teleoperation/assets/images/teleop-dualarm.gif" width="400" height="240" alt="demo of dualarm teleop"/>
 <img src="https://honghaolyu.github.io/intercontinental-teleoperation/assets/images/teleop-grasp.gif" width="400" height="240" alt="demo of dualarm grasp"/>
