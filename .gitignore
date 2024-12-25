@@ -1,0 +1,4 @@
+*.pyc
+GuLiM-motion-transfer-gh-pages
+assets/media/*
+!assets/media/zip
