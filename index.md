@@ -8,12 +8,14 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 <img src="https://honghaolyu.github.io/intercontinental-teleoperation/assets/images/teleop-grasp.gif" width="400" height="240" alt="demo of dualarm grasp"/>
 </p> -->
 
+# Abstract:
+Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.
 
+[Website](https://fsie-robotics.com/IROS2025-Workshop-AHFHR)
 
 # Organizers:
 
-``` -->
-Honghao Lyu, Zhejiang University, lvhonghao@zju.edu.cn, (https://fsie-robotics.com)
+Honghao Lyu, Zhejiang University, lvhonghao@zju.edu.cn, href="https://fsie-robotics.com" target="_blank" rel="noopener">新窗口打开 Example</a>
 
 <p align='left'>
 <img src="assets\images\Lyu Honghao img.jpg" width="205" height="300" alt="Honghao Lyu"/>
@@ -36,11 +38,6 @@ Geng Yang, Zhejiang University, yanggeng@zju.edu.cn, (http://www.fsie-zju.com/)
 <p align='left'>
 <img src="assets\images\Yang Geng.jpg" width="205" height="300" alt="Geng Yang"/>
 </p>
-
-# Abstract:
-Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.
-
-[Website](https://fsie-robotics.com/IROS2025-Workshop-AHFHR)
 
 # Content of the workshop and expected impact:
 ## Objectives of the Workshop:
