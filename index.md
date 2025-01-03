@@ -20,25 +20,26 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 <meta charset="utf-8"> 
 <title>Organizers and Speakers</title> 
 <style>
-    table {
+     table {
         width: 1000px;
-        border-collapse: collapse;
+        border-collapse: collapse; 
+        border: none; 
     }
 
     td {
         background-color: #FFFFFF;
         width: 250px;
-        text-align: center; 
+        text-align: center;
         vertical-align: middle;
         padding: 10px;
-        border: none;
+        border: none; 
     }
 
     img {
         width: 205px;
         height: 300px;
         display: block; 
-        margin: 0 auto; 
+        margin: 0 auto;
     }
 
     a {
