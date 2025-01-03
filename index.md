@@ -35,6 +35,13 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
         border: none; 
     }
 
+    img {
+        width: auto;
+        height: 300px;
+        display: block;
+        margin: 0 auto;
+    }
+
     a {
         text-decoration: none;
         font-weight: bold;
@@ -46,7 +53,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 <table border="0">
 <tr>
     <td>
-        <img src="assets/images/Lyu Honghao img.jpg" width="205" height="300" alt="Honghao Lyu"/>
+        <img src="assets/images/Lyu Honghao img.jpg" alt="Honghao Lyu"/>
         <br>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
         Zhejiang University<br>
@@ -54,7 +61,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
     </td>
 
     <td>
-        <img src="assets/images/Amy Kyungwon Han.jpg" width="225" height="300" alt="Amy Kyungwon Han"/>
+        <img src="assets/images/Amy Kyungwon Han.jpg" alt="Amy Kyungwon Han"/>
         <br>
         <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
         Seoul National University<br>
@@ -62,7 +69,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
     </td>
 
     <td>
-        <img src="assets/images/Won Soo Kim.jpg" width="243" height="300" alt="Woo Soo Kim"/>
+        <img src="assets/images/Won Soo Kim.jpg" alt="Woo Soo Kim"/>
         <br>
         <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
         Simon Fraser University<br>
@@ -70,7 +77,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
     </td>
 
     <td>
-        <img src="assets/images/Yang Geng.jpg" width="197" height="300" alt="Geng Yang"/>
+        <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
         <br>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
         Zhejiang University<br>
