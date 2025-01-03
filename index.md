@@ -8,42 +8,32 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 <img src="https://honghaolyu.github.io/intercontinental-teleoperation/assets/images/teleop-grasp.gif" width="400" height="240" alt="demo of dualarm grasp"/>
 </p> -->
 
-#### Citation:
-This work has been submmited to [The 16th International Conference on Intelligent Robotics and Applications](https://icira2023.org/).
-
-<!-- ```
-@ARTICLE{9693932,  
-        author={Lv, Honghao and Kong, Depeng and Pang, Gaoyang and Wang, Baicun and Yu, Zhangwei and Pang, Zhibo and Yang, Geng},  
-        journal={IEEE Transactions on Medical Robotics and Bionics},   
-        title={GuLiM: A Hybrid Motion Mapping Technique for Teleoperation of Medical Assistive Robot in Combating the COVID-19 Pandemic},   
-        year={2022},  
-        volume={4},  
-        number={1},  
-        pages={106-117},  
-        doi={10.1109/TMRB.2022.3146621}
-}
 ``` -->
+# Organizers:
+Honghao Lyu, Zhejiang University, lvhonghao@zju.edu.cn, https://fsie-robotics.com
+Amy Kyungwon Han, Seoul National University, amyhan@snu.ac.kr, https://hero.snu.ac.kr 
+Woo Soo Kim, Simon Fraser University, woosook@sfu.ca, https://www.sfu.ca/additive-manufacturing-lab.html
+Geng Yang, Zhejiang University, yanggeng@zju.edu.cn, http://www.fsie-zju.com/
 
-#### Abstract:
-We present a novel cloud-based human-robot motion mapping framework for ultra-remote teleoperation. An intuitive dual-arm human-robot motion mapping framework based on capturing human motion has been implemented, and a private network connectivity is established using the Google cloud platform for efficient transfer of control data required for human-robot motion mapping. To demonstrate the feasibility of the proposed approach, an intercontinental teleoperation system between China and Sweden was developed, and a series of practical applications were demonstrated by capturing the motion of operator in Sweden <svg t="1684725599547" class="icon" viewBox="0 0 1433 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="6578" width="20" height="20"><path d="M0 0m119.354623 0l1014.514291 0q119.354623 0 119.354622 119.354623l0 656.450423q0 119.354623-119.354622 119.354623l-1014.514291 0q-119.354623 0-119.354623-119.354623l0-656.450423q0-119.354623 119.354623-119.354623Z" fill="#0F5D9F" p-id="6579"></path><path d="M358.063868 59.677311h179.031933v298.386557h656.450424v179.031933H537.095801v298.386557H358.063868v-298.386557H59.677311v-179.031933h298.386557z" fill="#FDDA3D" p-id="6580"></path></svg> to control the dual-arm robot located over 7800KM away in China <svg t="1684725633143" class="icon" viewBox="0 0 1365 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="9464" width="20" height="20"><path d="M0 0m157.190104 0l943.140625 0q157.190104 0 157.190104 157.190104l0 628.760416q0 157.190104-157.190104 157.190105l-943.140625 0q-157.190104 0-157.190104-157.190105l0-628.760416q0-157.190104 157.190104-157.190104Z" fill="#F93939" p-id="9465"></path><path d="M1137.741973 0H119.778859C53.601825 0 0 56.274057 0 125.752083v691.636458c0 69.478026 53.601825 125.752083 119.778859 125.752084h1017.963114c66.177034 0 119.778859-56.274057 119.77886-125.752084V125.752083c0-69.478026-53.601825-125.752083-119.77886-125.752083z" fill="#F93939" p-id="9466"></path><path d="M329.234673 454.593781l-88.026458 48.571742 16.740746-102.959518-71.128522-72.857613 98.401005-14.93306 44.013229-93.685302 44.013229 93.685302L471.570312 327.348392l-71.285712 72.936208 16.897936 102.880923-87.947863-48.571742zM538.926272 188.628125h59.88943v62.876042h-59.88943v-62.876042zM598.894297 314.380208h59.889429v62.876042h-59.889429V314.380208z m0 125.752083h59.889429v62.876042h-59.889429v-62.876042z m-59.88943 125.752084h59.88943V628.760416h-59.88943v-62.876041z" fill="#FFDA2C" p-id="9467"></path></svg>.
+# Abstract:
+Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.
+Website: https://fsie-robotics.com/IROS2025-Workshop-AHFHR
 
 <p align='center'>
 <img src="assets\images\overview.jpg" width="1000" height="600" alt="Intercontinental Teleoperation"/>
 </p>
-
-#### Contact: 
-[Honghao Lv](http://fsie-zju.com/team/) (lvhonghao [at] zju.edu.cn)
 
 <!-- # Setup
 <p align='center'>
 <img src="https://honghaolyu.github.io/intercontinental-teleoperation/assets/images/setup.png" width="800" height="600" alt="setup of the grasp task"/>
 </p> -->
 
-# Demonstration between China and Sweden:
-# Task1:
-## Workpiece insertion
+# Content of the workshop and expected impact:
+## Objectives of the Workshop:
+The objective of this workshop is to explore and promote the integration of advanced haptic technologies in healthcare robotics, focusing on enhancing rehabilitation, assistive devices, and patient care. The workshop aims to showcase cutting-edge innovations in haptic feedback systems, emphasizing their applications in robotic rehabilitation platforms and assistive solutions for individuals with disabilities or mobility challenges. By fostering cross-disciplinary collaboration between robotics researchers, healthcare professionals, and engineers, the event will address key challenges in the design and implementation of haptic systems, such as real-time feedback, sensor accuracy, and user-centered development. It will also examine the ethical, regulatory, and societal implications of deploying haptic-enabled healthcare robots, discussing issues like privacy, autonomy, and equity. Lastly, the workshop will provide a platform for future research and innovation, advancing the role of haptic technologies in healthcare and catalyzing growth in this field.
 
-### The robotic left arm and the right arm in China are controlled by the operator in Sweden to finish the insertion assembly task.
+## Ensure the Highest Quality:
+This workshop aims to introduce the emerging research area of haptic technologies for healthcare robotic applications, a topic not fully addressed by most robotics conferences. The workshop will engage attendees through invited talks, panel discussions, live demonstrations, and poster sessions showcasing cutting-edge research. Interactive breakout sessions and networking opportunities will foster collaboration, brainstorming, and idea exchange, ensuring active participation and meaningful discussions to advance haptic technologies for healthcare robotics. Without such a workshop, researchers and practitioners may struggle to find a platform for in-depth discussions and dissemination of their work specifically focused on haptic techniques for healthcare. Additionally, this workshop will serve as a catalyst for future events and collaborations in this growing field. By hosting this workshop, IROS can further cement its leadership position in a rapidly evolving area of research that is poised for significant growth in the coming years. Thus, a dedicated workshop on this topic is both timely and essential.
 
 <table align='center'>
 <tr>
