@@ -13,25 +13,25 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 # Organizers:
 
 ``` -->
-Honghao Lyu, Zhejiang University, lvhonghao@zju.edu.cn, https://fsie-robotics.com
+Honghao Lyu, Zhejiang University, lvhonghao@zju.edu.cn, (https://fsie-robotics.com)
 
 <p align='left'>
 <img src="assets\images\Lyu Honghao img.jpg" width="205" height="300" alt="Honghao Lyu"/>
 </p>
 
-Amy Kyungwon Han, Seoul National University, amyhan@snu.ac.kr, https://hero.snu.ac.kr 
+Amy Kyungwon Han, Seoul National University, amyhan@snu.ac.kr, (https://hero.snu.ac.kr) 
 
 <p align='left'>
 <img src="assets\images\Amy Kyungwon Han.jpg" width="205" height="300" alt="Amy Kyungwon Han"/>
 </p>
 
-Woo Soo Kim, Simon Fraser University, woosook@sfu.ca, https://www.sfu.ca/additive-manufacturing-lab.html
+Woo Soo Kim, Simon Fraser University, woosook@sfu.ca, (https://www.sfu.ca/additive-manufacturing-lab.html)
 
 <p align='left'>
 <img src="assets\images\Won Soo Kim.jpg" width="205" height="300" alt="Won Soo Kim"/>
 </p>
 
-Geng Yang, Zhejiang University, yanggeng@zju.edu.cn, http://www.fsie-zju.com/
+Geng Yang, Zhejiang University, yanggeng@zju.edu.cn, (http://www.fsie-zju.com/)
 
 <p align='left'>
 <img src="assets\images\Yang Geng.jpg" width="205" height="300" alt="Geng Yang"/>
