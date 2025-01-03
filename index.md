@@ -15,7 +15,6 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 
 # Organizers and Speakers:
 
-<!DOCTYPE html>
 <html lang="zh">
 <head> 
 <meta charset="utf-8"> 
@@ -32,6 +31,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
         text-align: center; 
         vertical-align: middle;
         padding: 10px;
+        border: none;
     }
 
     img {
