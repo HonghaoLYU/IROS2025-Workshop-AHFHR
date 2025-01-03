@@ -90,17 +90,6 @@ The objective of this workshop is to explore and promote the integration of adva
 ## Ensure the Highest Quality:
 This workshop aims to introduce the emerging research area of haptic technologies for healthcare robotic applications, a topic not fully addressed by most robotics conferences. The workshop will engage attendees through invited talks, panel discussions, live demonstrations, and poster sessions showcasing cutting-edge research. Interactive breakout sessions and networking opportunities will foster collaboration, brainstorming, and idea exchange, ensuring active participation and meaningful discussions to advance haptic technologies for healthcare robotics. Without such a workshop, researchers and practitioners may struggle to find a platform for in-depth discussions and dissemination of their work specifically focused on haptic techniques for healthcare. Additionally, this workshop will serve as a catalyst for future events and collaborations in this growing field. By hosting this workshop, IROS can further cement its leadership position in a rapidly evolving area of research that is poised for significant growth in the coming years. Thus, a dedicated workshop on this topic is both timely and essential.
 
-<table align='center'>
-<tr>
-<td align='center' valign="middle"> <video src="assets\media\zip\workpiece insertion_view2.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td>
-<td align='center' valign="middle"> <video src="assets\media\zip\workpiece insertion_view1.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td>
-</tr>
-<tr>
-<td align='center'> View 1 (GoPro View in Sweden) </td>
-<td align='center'> View 2 (Screen Recording View) </td>
-</tr>
-</table>
-
 # Task2:
 ## Auscultation
 
@@ -131,3 +120,63 @@ This workshop aims to introduce the emerging research area of haptic technologie
 <td align='center'> View (Screen Recording View) </td>
 </tr>
 </table>
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support/title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .footer {
+            background-color: #EDF3F3; 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center; 
+            padding: 20px; 
+            border-top: 4px solid #54575D; 
+        }
+
+        .footer img {
+            height: 80px; 
+            width: auto; 
+        }
+
+        .footer-text {
+            text-align: right; 
+        }
+
+        .footer-text b {
+            font-weight: bold; 
+        }
+
+        @media (max-width: 768px) {
+            .footer {
+                flex-direction: column; 
+                text-align: center; 
+            }
+
+            .footer-text {
+                margin-top: 10px; 
+            }
+        }
+    </style>
+</head>
+<body>
+    <footer class="footer">
+        <img src="assets/images/IEEE_RAS_logo.png" alt="Logo">
+
+        <div class="footer-text">
+            <b>Support</b><br>
+            IEEE/RAS TC for Haptics<br>
+            IEEE/RAS TC for Human-Robot Interaction & Coordination
+        </div>
+    </footer>
+</body>
+</html>
