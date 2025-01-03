@@ -122,5 +122,5 @@ This workshop aims to introduce the emerging research area of haptic technologie
 </table>
 
 <p align='center'>
-<img src="assets/images/IEEE_RAS_TC.png" width="auto" height="300" alt="the footer of page"/>
-</p> -->
+<img src="assets/images/IEEE_RAS_TC.png" width="auto" height="auto" alt="the footer of page"/>
+</p>
