@@ -13,31 +13,60 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 
 [Website](https://fsie-robotics.com/IROS2025-Workshop-AHFHR)
 
-# Organizers:
+# Organizers and Speakers:
 
-Honghao Lyu, Zhejiang University, lvhonghao@zju.edu.cn, href="https://fsie-robotics.com" target="_blank" rel="noopener">新窗口打开 Example</a>
-
-<p align='left'>
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8"> 
+<title>菜鸟教程(runoob.com)</title> 
+</head>
+<body>
+ 
+<table width="1000" border="0">
+<tr>
+<td style="background-color:#FFFFF;width:250px;">
+<b><p align='left'>
 <img src="assets\images\Lyu Honghao img.jpg" width="205" height="300" alt="Honghao Lyu"/>
-</p>
+</p></b><br>
+[Honghao Lyu](https://fsie-robotics.com)<br>
+Zhejiang University<br>
+lvhonghao@zju.edu.cn
+</td>
 
-Amy Kyungwon Han, Seoul National University, amyhan@snu.ac.kr, (https://hero.snu.ac.kr) 
-
-<p align='left'>
+<td style="background-color:#FFFFF;width:250px;">
+<b><p align='left'>
 <img src="assets\images\Amy Kyungwon Han.jpg" width="205" height="300" alt="Amy Kyungwon Han"/>
-</p>
+</p></b><br>
+[Amy Kyungwon Han](https://hero.snu.ac.kr)<br>
+Seoul National University<br>
+amyhan@snu.ac.kr
+</td>
 
-Woo Soo Kim, Simon Fraser University, woosook@sfu.ca, (https://www.sfu.ca/additive-manufacturing-lab.html)
+<td style="background-color:#FFFFF;width:250px;">
+<b><p align='left'>
+<img src="assets\images\Won Soo Kim.jpg" width="205" height="300" alt="Woo Soo Kim"/>
+</p></b><br>
+[Woo Soo Kim](https://www.sfu.ca/additive-manufacturing-lab.html)<br>
+Simon Fraser University<br>
+woosook@sfu.ca
+</td>
 
-<p align='left'>
-<img src="assets\images\Won Soo Kim.jpg" width="205" height="300" alt="Won Soo Kim"/>
-</p>
-
-Geng Yang, Zhejiang University, yanggeng@zju.edu.cn, (http://www.fsie-zju.com/)
-
-<p align='left'>
+<td style="background-color:#FFFFF;width:250px;">
+<b><p align='left'>
 <img src="assets\images\Yang Geng.jpg" width="205" height="300" alt="Geng Yang"/>
-</p>
+</p></b><br>
+[Geng Yang](https://fsie-robotics.com)<br>
+Zhejiang University<br>
+yanggeng@zju.edu.cn
+</td>
+
+</tr>
+
+</table>
+ 
+</body>
+</html>
 
 # Content of the workshop and expected impact:
 ## Objectives of the Workshop:
