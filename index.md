@@ -28,8 +28,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 <b><p align='center'>
 <img src="assets\images\Lyu Honghao img.jpg" width="205" height="300" alt="Honghao Lyu"/>
 </p></b><br>
-
-[Honghao Lyu](https://fsie-robotics.com)<br>
+<a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
 Zhejiang University<br>
 lvhonghao@zju.edu.cn
 </td>
@@ -38,8 +37,7 @@ lvhonghao@zju.edu.cn
 <b><p align='center'>
 <img src="assets\images\Amy Kyungwon Han.jpg" width="205" height="300" alt="Amy Kyungwon Han"/>
 </p></b><br>
-
-[Amy Kyungwon Han](https://hero.snu.ac.kr)<br>
+<a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
 Seoul National University<br>
 amyhan@snu.ac.kr
 </td>
@@ -48,8 +46,7 @@ amyhan@snu.ac.kr
 <b><p align='center'>
 <img src="assets\images\Won Soo Kim.jpg" width="205" height="300" alt="Woo Soo Kim"/>
 </p></b><br>
-
-[Woo Soo Kim](https://www.sfu.ca/additive-manufacturing-lab.html)<br>
+<a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
 Simon Fraser University<br>
 woosook@sfu.ca
 </td>
@@ -58,8 +55,7 @@ woosook@sfu.ca
 <b><p align='center'>
 <img src="assets\images\Yang Geng.jpg" width="205" height="300" alt="Geng Yang"/>
 </p></b><br>
-
-[Geng Yang](https://fsie-robotics.com)<br>
+<a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
 Zhejiang University<br>
 yanggeng@zju.edu.cn
 </td>
