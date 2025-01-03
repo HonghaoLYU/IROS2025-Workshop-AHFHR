@@ -15,7 +15,6 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 
 # Organizers and Speakers:
 
-<!DOCTYPE html>
 <html>
 <head> 
 <meta charset="utf-8"> 
@@ -26,36 +25,40 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 <table width="1000" border="0">
 <tr>
 <td style="background-color:#FFFFF;width:250px;">
-<b><p align='left'>
+<b><p align='center'>
 <img src="assets\images\Lyu Honghao img.jpg" width="205" height="300" alt="Honghao Lyu"/>
 </p></b><br>
+
 [Honghao Lyu](https://fsie-robotics.com)<br>
 Zhejiang University<br>
 lvhonghao@zju.edu.cn
 </td>
 
 <td style="background-color:#FFFFF;width:250px;">
-<b><p align='left'>
+<b><p align='center'>
 <img src="assets\images\Amy Kyungwon Han.jpg" width="205" height="300" alt="Amy Kyungwon Han"/>
 </p></b><br>
+
 [Amy Kyungwon Han](https://hero.snu.ac.kr)<br>
 Seoul National University<br>
 amyhan@snu.ac.kr
 </td>
 
 <td style="background-color:#FFFFF;width:250px;">
-<b><p align='left'>
+<b><p align='center'>
 <img src="assets\images\Won Soo Kim.jpg" width="205" height="300" alt="Woo Soo Kim"/>
 </p></b><br>
+
 [Woo Soo Kim](https://www.sfu.ca/additive-manufacturing-lab.html)<br>
 Simon Fraser University<br>
 woosook@sfu.ca
 </td>
 
 <td style="background-color:#FFFFF;width:250px;">
-<b><p align='left'>
+<b><p align='center'>
 <img src="assets\images\Yang Geng.jpg" width="205" height="300" alt="Geng Yang"/>
 </p></b><br>
+
 [Geng Yang](https://fsie-robotics.com)<br>
 Zhejiang University<br>
 yanggeng@zju.edu.cn
