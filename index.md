@@ -121,62 +121,6 @@ This workshop aims to introduce the emerging research area of haptic technologie
 </tr>
 </table>
 
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Support/title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-        }
-
-        .footer {
-            background-color: #EDF3F3; 
-            display: flex; 
-            justify-content: space-between; 
-            align-items: center; 
-            padding: 20px; 
-            border-top: 4px solid #54575D; 
-        }
-
-        .footer img {
-            height: 80px; 
-            width: auto; 
-        }
-
-        .footer-text {
-            text-align: right; 
-        }
-
-        .footer-text b {
-            font-weight: bold; 
-        }
-
-        @media (max-width: 768px) {
-            .footer {
-                flex-direction: column; 
-                text-align: center; 
-            }
-
-            .footer-text {
-                margin-top: 10px; 
-            }
-        }
-    </style>
-</head>
-<body>
-    <footer class="footer">
-        <img src="assets/images/IEEE_RAS_logo.png" alt="Logo">
-
-        <div class="footer-text">
-            <b>Support</b><br>
-            IEEE/RAS TC for Haptics<br>
-            IEEE/RAS TC for Human-Robot Interaction & Coordination
-        </div>
-    </footer>
-</body>
-</html>
+<p align='center'>
+<img src="assets/images/IEEE_RAS_TC.png" width="auto" height="300" alt="the footer of page"/>
+</p> -->
