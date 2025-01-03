@@ -15,57 +15,79 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 
 # Organizers and Speakers:
 
-<html>
+<!DOCTYPE html>
+<html lang="zh">
 <head> 
 <meta charset="utf-8"> 
-<title>菜鸟教程(runoob.com)</title> 
+<title>Organizers and Speakers</title> 
+<style>
+    table {
+        width: 1000px;
+        border-collapse: collapse;
+    }
+
+    td {
+        background-color: #FFFFFF;
+        width: 250px;
+        text-align: center; 
+        vertical-align: middle;
+        padding: 10px;
+    }
+
+    img {
+        width: 205px;
+        height: 300px;
+        display: block; 
+        margin: 0 auto; 
+    }
+
+    a {
+        text-decoration: none;
+        font-weight: bold;
+    }
+</style>
 </head>
 <body>
  
-<table width="1000" border="0">
+<table border="0">
 <tr>
-<td style="background-color:#FFFFF;width:250px;">
-<b><p align='center'>
-<img src="assets\images\Lyu Honghao img.jpg" width="205" height="300" alt="Honghao Lyu"/>
-</p></b><br>
-<a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
-Zhejiang University<br>
-lvhonghao@zju.edu.cn
-</td>
+    <td>
+        <img src="assets/images/Lyu Honghao img.jpg" alt="Honghao Lyu"/>
+        <br>
+        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
+        Zhejiang University<br>
+        lvhonghao@zju.edu.cn
+    </td>
 
-<td style="background-color:#FFFFF;width:250px;">
-<b><p align='center'>
-<img src="assets\images\Amy Kyungwon Han.jpg" width="205" height="300" alt="Amy Kyungwon Han"/>
-</p></b><br>
-<a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
-Seoul National University<br>
-amyhan@snu.ac.kr
-</td>
+    <td>
+        <img src="assets/images/Amy Kyungwon Han.jpg" alt="Amy Kyungwon Han"/>
+        <br>
+        <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
+        Seoul National University<br>
+        amyhan@snu.ac.kr
+    </td>
 
-<td style="background-color:#FFFFF;width:250px;">
-<b><p align='center'>
-<img src="assets\images\Won Soo Kim.jpg" width="205" height="300" alt="Woo Soo Kim"/>
-</p></b><br>
-<a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
-Simon Fraser University<br>
-woosook@sfu.ca
-</td>
+    <td>
+        <img src="assets/images/Won Soo Kim.jpg" alt="Woo Soo Kim"/>
+        <br>
+        <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
+        Simon Fraser University<br>
+        woosook@sfu.ca
+    </td>
 
-<td style="background-color:#FFFFF;width:250px;">
-<b><p align='center'>
-<img src="assets\images\Yang Geng.jpg" width="205" height="300" alt="Geng Yang"/>
-</p></b><br>
-<a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
-Zhejiang University<br>
-yanggeng@zju.edu.cn
-</td>
-
+    <td>
+        <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
+        <br>
+        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
+        Zhejiang University<br>
+        yanggeng@zju.edu.cn
+    </td>
 </tr>
-
 </table>
  
 </body>
 </html>
+
 
 # Content of the workshop and expected impact:
 ## Objectives of the Workshop:
