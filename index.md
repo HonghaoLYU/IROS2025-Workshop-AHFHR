@@ -89,7 +89,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
     </td>
 
     <td>
-        <img src="assets/images/Domenico Prattichizzo.jpg" width="auto" height="300" alt="Domenico Prattichizzo"/>
+        <img src="assets/images/Domenico Prattichizzo.jpg" width="268" height="300" alt="Domenico Prattichizzo"/>
         <br>
         <a href="https://www3.diism.unisi.it/~domenico/" target="_blank" rel="noopener">Domenico Prattichizzo</a><br>
         University of Siena<br>
