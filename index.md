@@ -95,7 +95,14 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
         University of Siena<br>
         prattichizzo@ing.unisi.it
     </td>
-
+    
+    <td>
+        <img src="assets/images/Fernando Bello.png" width="auto" height="300" alt="Fernando Bello"/>
+        <br>
+        <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
+        Imperial College London<br>
+        f.bello@imperial.ac.uk
+    </td>
 </tr>
 
 </table>
