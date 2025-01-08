@@ -96,13 +96,6 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
         prattichizzo@ing.unisi.it
     </td>
 
-    <td>
-        <img src="assets/images/Fernando Bello.png" width="auto" height="300" alt="Fernando Bello"/>
-        <br>
-        <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
-        Imperial College London<br>
-        f.bello@imperial.ac.uk
-    </td>
 </tr>
 
 </table>
@@ -117,6 +110,8 @@ The objective of this workshop is to explore and promote the integration of adva
 
 ## Ensure the Highest Quality:
 This workshop aims to introduce the emerging research area of haptic technologies for healthcare robotic applications, a topic not fully addressed by most robotics conferences. The workshop will engage attendees through invited talks, panel discussions, live demonstrations, and poster sessions showcasing cutting-edge research. Interactive breakout sessions and networking opportunities will foster collaboration, brainstorming, and idea exchange, ensuring active participation and meaningful discussions to advance haptic technologies for healthcare robotics. Without such a workshop, researchers and practitioners may struggle to find a platform for in-depth discussions and dissemination of their work specifically focused on haptic techniques for healthcare. Additionally, this workshop will serve as a catalyst for future events and collaborations in this growing field. By hosting this workshop, IROS can further cement its leadership position in a rapidly evolving area of research that is poised for significant growth in the coming years. Thus, a dedicated workshop on this topic is both timely and essential.
+
+
 
 <p align='center'>
 <img src="assets/images/IEEE_RAS_TC.png" width="auto" height="auto" alt="the footer of page"/>
