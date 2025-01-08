@@ -21,7 +21,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 <title>Organizers and Speakers</title> 
 <style>
      table {
-        width: 1000px;
+        width: 1750px;
         border-collapse: collapse; 
         border: none; 
     }
@@ -62,6 +62,14 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
     </td>
 
     <td>
+        <img src="assets/images/Joshua Brown.png" width="auto" height="300" alt="Joshua Brown"/>
+        <br>
+        <a href="https://www.jb-robotics.com/" target="_blank" rel="noopener">Joshua Brown</a><br>
+        mperial College London<br>
+        joshua.brown@imperial.ac.uk
+    </td>
+
+    <td>
         <img src="assets/images/Won Soo Kim.jpg" width="243" height="300" alt="Woo Soo Kim"/>
         <br>
         <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
@@ -76,6 +84,22 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
         Zhejiang University<br>
         yanggeng@zju.edu.cn
     </td>
+
+    <td>
+        <img src="assets/images/Domenico Prattichizzo.jpg" width="auto" height="300" alt="Domenico Prattichizzo"/>
+        <br>
+        <a href="https://www3.diism.unisi.it/~domenico/" target="_blank" rel="noopener">Domenico Prattichizzo</a><br>
+        University of Siena<br>
+        prattichizzo@ing.unisi.it
+    </td>
+
+    <td>
+        <img src="assets/images/Fernando Bello.png" width="auto" height="300" alt="Fernando Bello"/>
+        <br>
+        <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
+        Imperial College London<br>
+        f.bello@imperial.ac.uk
+    </td>
 </tr>
 </table>
  
@@ -89,37 +113,6 @@ The objective of this workshop is to explore and promote the integration of adva
 
 ## Ensure the Highest Quality:
 This workshop aims to introduce the emerging research area of haptic technologies for healthcare robotic applications, a topic not fully addressed by most robotics conferences. The workshop will engage attendees through invited talks, panel discussions, live demonstrations, and poster sessions showcasing cutting-edge research. Interactive breakout sessions and networking opportunities will foster collaboration, brainstorming, and idea exchange, ensuring active participation and meaningful discussions to advance haptic technologies for healthcare robotics. Without such a workshop, researchers and practitioners may struggle to find a platform for in-depth discussions and dissemination of their work specifically focused on haptic techniques for healthcare. Additionally, this workshop will serve as a catalyst for future events and collaborations in this growing field. By hosting this workshop, IROS can further cement its leadership position in a rapidly evolving area of research that is poised for significant growth in the coming years. Thus, a dedicated workshop on this topic is both timely and essential.
-
-# Task2:
-## Auscultation
-
-### The robotic hand with the Doppler Ultrasound Stethoscope in China are controlled by the operator in Sweden to finish the remote auscultation task.
-
-<table align='center'>
-<tr>
-<td align='center' valign="middle"> <video src="assets\media\zip\auscultation_view2.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td>
-<td align='center' valign="middle"> <video src="assets\media\zip\auscultation_view1.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td>
-</tr>
-<tr>
-<td align='center'> View 1 (GoPro View in Sweden) </td>
-<td align='center'> View 2 (Screen Recording View) </td>
-</tr>
-</table>
-
-# Task3:
-## Vibration feedback
-### The operator in Sweden can feel the vibration states, thereby gaining insight into the on-site robot’s motion and collision conditions.
-
-<table>
-<tr>
-<!-- <td align='center' valign="middle"> <video src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/media/zip/degree30-P1 (2)_batch.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td> -->
-<td align='center' valign="middle"> <video src="assets\media\zip\vibration feedback.mp4" type="video/mp4" controls="controls" width="500" height="282"> 您的浏览器不支持播放该视频！</video> </td>
-</tr>
-<tr>
-<!-- <td align='center'> DMM </td> -->
-<td align='center'> View (Screen Recording View) </td>
-</tr>
-</table>
 
 <p align='center'>
 <img src="assets/images/IEEE_RAS_TC.png" width="auto" height="auto" alt="the footer of page"/>
