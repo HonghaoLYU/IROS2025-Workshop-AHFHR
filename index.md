@@ -65,7 +65,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
         <img src="assets/images/Joshua Brown.png" width="auto" height="300" alt="Joshua Brown"/>
         <br>
         <a href="https://www.jb-robotics.com/" target="_blank" rel="noopener">Joshua Brown</a><br>
-        mperial College London<br>
+        Imperial College London<br>
         joshua.brown@imperial.ac.uk
     </td>
 
