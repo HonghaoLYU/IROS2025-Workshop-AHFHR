@@ -13,7 +13,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 
 [Website](https://fsie-robotics.com/IROS2025-Workshop-AHFHR)
 
-# Organizers and Speakers:
+# Organizers 
 
 <html lang="zh">
 <head> 
@@ -82,6 +82,68 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 
 <tr>
 
+    <td>
+        <img src="assets/images/Won Soo Kim.jpg" width="auto" height="300" alt="Woo Soo Kim"/>
+        <br>
+        <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
+        Simon Fraser University<br>
+        woosook@sfu.ca
+    </td>
+
+    <!-- <td>
+        <img src="assets/images/Domenico Prattichizzo.jpg" width="268" height="300" alt="Domenico Prattichizzo"/>
+        <br>
+        <a href="https://www3.diism.unisi.it/~domenico/" target="_blank" rel="noopener">Domenico Prattichizzo</a><br>
+        University of Siena<br>
+        prattichizzo@ing.unisi.it
+    </td>
+
+    <td>
+        <img src="assets/images/Fernando Bello_img.png" width="auto" height="300" alt="Fernando Bello"/>
+        <br>
+        <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
+        Imperial College London<br>
+        f.bello@imperial.ac.uk
+    </td> -->
+</tr>
+
+</table>
+ 
+</body>
+</html>
+
+
+# Speakers:
+<html lang="zh">
+<head> 
+<meta charset="utf-8"> 
+<title>Organizers and Speakers</title> 
+<style>
+     table {
+        width: 1200px;
+        border-collapse: collapse; 
+        border: none; 
+    }
+
+    td {
+        background-color: #FFFFFF;
+        width: 300px;
+        text-align: center;
+        vertical-align: middle;
+        padding: 10px;
+        border: none; 
+    }
+
+    a {
+        text-decoration: none;
+        font-weight: bold;
+    }
+</style>
+</head>
+<body>
+ 
+<table border="0">
+<tr>
     <td>
         <img src="assets/images/Won Soo Kim.jpg" width="auto" height="300" alt="Woo Soo Kim"/>
         <br>
