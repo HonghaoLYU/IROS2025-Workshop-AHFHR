@@ -82,13 +82,13 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
 
 <tr>
 
-    <td>
+    <!-- <td>
         <img src="assets/images/Won Soo Kim.jpg" width="auto" height="300" alt="Woo Soo Kim"/>
         <br>
         <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
         Simon Fraser University<br>
         woosook@sfu.ca
-    </td>
+    </td> -->
 
     <!-- <td>
         <img src="assets/images/Domenico Prattichizzo.jpg" width="268" height="300" alt="Domenico Prattichizzo"/>
