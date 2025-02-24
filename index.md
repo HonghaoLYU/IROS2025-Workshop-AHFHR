@@ -45,6 +45,15 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
  
 <table border="0">
 <tr>
+    
+    <td>
+        <img src="assets/images/Amy Kyungwon Han.jpg" width="auto" height="300" alt="Amy Kyungwon Han"/>
+        <br>
+        <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
+        Seoul National University<br>
+        amyhan@snu.ac.kr
+    </td>
+    
     <td>
         <img src="assets/images/Lyu Honghao img.jpg" width="auto" height="300" alt="Honghao Lyu"/>
         <br>
@@ -54,20 +63,24 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
     </td>
 
     <td>
-        <img src="assets/images/Amy Kyungwon Han.jpg" width="auto" height="300" alt="Amy Kyungwon Han"/>
+        <img src="assets/images/Yang Geng.jpg" width="auto" height="300" alt="Geng Yang"/>
         <br>
-        <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
-        Seoul National University<br>
-        amyhan@snu.ac.kr
+        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
+        Zhejiang University<br>
+        yanggeng@zju.edu.cn
     </td>
 
-    <td>
+    <!-- <td>
         <img src="assets/images/Joshua Brown.png" width="auto" height="300" alt="Joshua Brown"/>
         <br>
         <a href="https://www.jb-robotics.com/" target="_blank" rel="noopener">Joshua Brown</a><br>
         Imperial College London<br>
         joshua.brown@imperial.ac.uk
-    </td>
+    </td> -->
+
+</tr>
+
+<tr>
 
     <td>
         <img src="assets/images/Won Soo Kim.jpg" width="auto" height="300" alt="Woo Soo Kim"/>
@@ -77,18 +90,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
         woosook@sfu.ca
     </td>
 
-</tr>
-
-<tr>
-    <td>
-        <img src="assets/images/Yang Geng.jpg" width="auto" height="300" alt="Geng Yang"/>
-        <br>
-        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
-        Zhejiang University<br>
-        yanggeng@zju.edu.cn
-    </td>
-
-    <td>
+    <!-- <td>
         <img src="assets/images/Domenico Prattichizzo.jpg" width="268" height="300" alt="Domenico Prattichizzo"/>
         <br>
         <a href="https://www3.diism.unisi.it/~domenico/" target="_blank" rel="noopener">Domenico Prattichizzo</a><br>
@@ -102,7 +104,7 @@ Advanced haptic technologies in healthcare robotics are redefining medical pract
         <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
         Imperial College London<br>
         f.bello@imperial.ac.uk
-    </td>
+    </td> -->
 </tr>
 
 </table>
