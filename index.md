@@ -37,11 +37,9 @@
 <p>Tips: You can get a better experience of this site in <a href="https://www.google.com/chrome">Google chrome</a> browser.</p>
 
 <h3>Abstract:</h3>
-<p>Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.</p>
+<p>Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.<a href="https://fsie-robotics.com/IROS2025-Workshop-AHFHR">Website</a></p>
 
-<p><a href="https://fsie-robotics.com/IROS2025-Workshop-AHFHR">Website</a></p>
-
-<h3>Organizers</h3>
+<h3>Organizers:</h3>
 <table border="0">
   <tr>
     <td>
@@ -93,26 +91,26 @@
 
 <h3>Content of the workshop and expected impact:</h3>
 
-<h4>Objectives of the Workshop:</h4>
+<h4>Objectives of the Workshop</h4>
 <p>The objective of this workshop is to explore and promote the integration of advanced haptic technologies in healthcare robotics, focusing on enhancing rehabilitation, assistive devices, and patient care. The workshop aims to showcase cutting-edge innovations in haptic feedback systems, emphasizing their applications in robotic rehabilitation platforms and assistive solutions for individuals with disabilities or mobility challenges. By fostering cross-disciplinary collaboration between robotics researchers, healthcare professionals, and engineers, the event will address key challenges in the design and implementation of haptic systems, such as real-time feedback, sensor accuracy, and user-centered development. It will also examine the ethical, regulatory, and societal implications of deploying haptic-enabled healthcare robots, discussing issues like privacy, autonomy, and equity. Lastly, the workshop will provide a platform for future research and innovation, advancing the role of haptic technologies in healthcare and catalyzing growth in this field.</p>
 
-<h4>Ensure the Highest Quality:</h4>
+<h4>Ensure the Highest Quality</h4>
 <p>This workshop aims to introduce the emerging research area of haptic technologies for healthcare robotic applications, a topic not fully addressed by most robotics conferences. The workshop will engage attendees through invited talks, panel discussions, live demonstrations, and poster sessions showcasing cutting-edge research. Interactive breakout sessions and networking opportunities will foster collaboration, brainstorming, and idea exchange, ensuring active participation and meaningful discussions to advance haptic technologies for healthcare robotics. Without such a workshop, researchers and practitioners may struggle to find a platform for in-depth discussions and dissemination of their work specifically focused on haptic techniques for healthcare. Additionally, this workshop will serve as a catalyst for future events and collaborations in this growing field. By hosting this workshop, IROS can further cement its leadership position in a rapidly evolving area of research that is poised for significant growth in the coming years. Thus, a dedicated workshop on this topic is both timely and essential.</p>
 
 <h3>Intended audience and expected attendance:</h3>
 <p>The intended audience for this workshop includes researchers, engineers, healthcare professionals, and industry experts interested in haptic technologies and their applications in healthcare robotics. Attendees are expected to have backgrounds in robotics, biomedical engineering, haptics, human-robot interaction, or healthcare technology development. The workshop will specifically target members of relevant IEEE RAS Technical Committees (TCs), including:</p>
 
-<p><b>RAS TC for Haptics</b>: Researchers focused on tactile and force-feedback technologies, with <b>Prof. Amy Kyungwon Han serving as Co-chair</b> from 2024. 
-  <a href="https://www.ieee-ras.org/haptics" target="_blank">link</a></p>
+<b>RAS TC for Haptics</b>: Researchers focused on tactile and force-feedback technologies, with <b>Prof. Amy Kyungwon Han serving as Co-chair</b> from 2024. 
+  <a href="https://www.ieee-ras.org/haptics" target="_blank">Link</a>
 
-<p><b>RAS TC for Human-Robot Interaction & Coordination</b>: Experts exploring interaction paradigms and user experience design, with <b>Dr. Honghao Lyu as a committee member</b>. 
-  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">link</a></p>
+<b>RAS TC for Human-Robot Interaction & Coordination</b>: Experts exploring interaction paradigms and user experience design, with <b>Dr. Honghao Lyu as a committee member</b>. 
+  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">Link</a>
 
-<p><b>RAS TC for Rehabilitation and Assistive Robotics</b>: Specialists developing robotics solutions for healthcare and assistive applications. 
-  <a href="https://www.ieee-ras.org/rehabilitation-and-assistive-robotics" target="_blank">link</a></p>
+<b>RAS TC for Rehabilitation and Assistive Robotics</b>: Specialists developing robotics solutions for healthcare and assistive applications. 
+  <a href="https://www.ieee-ras.org/rehabilitation-and-assistive-robotics" target="_blank">Link</a>
 
-<p><b>IES TC for Industrial Informatics</b>: Researchers developing information technologies and computational intelligence for healthcare applications, with <b>Dr. Honghao Lyu as a committee member</b>. 
-  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">link</a></p>
+<b>IES TC for Industrial Informatics</b>: Researchers developing information technologies and computational intelligence for healthcare applications, with <b>Dr. Honghao Lyu as a committee member</b>. 
+  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">Link</a>
 
 <p>Additionally, the workshop will attract communities in telerobotics, robot learning, and robot ethics, alongside interdisciplinary stakeholders from healthcare institutions, startups, and policy-making bodies. By engaging these diverse groups, the workshop aims to foster cross-disciplinary collaboration and accelerate advancements in haptic technologies for healthcare applications. Based on attendance figures from similar past events at Hamlyn Symposium 2024 (Prof. Amy Kyungwon Han run a related workshop), IROS2024 and related conferences, we estimate that this workshop will attract between 50 to 100 attendees, excluding organizers and speakers.</p>
 
