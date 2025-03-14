@@ -69,15 +69,15 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 
 <tr>
 
-    <!-- <td>
+    <td>
         <img src="assets/images/Gaoyang Pang.jpg" width="auto" height="300" alt="Gaoyang Pang"/>
         <br>
         <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
         Sydney University<br>
         gaoyang.pang@sydney.edu.au
-    </td> -->
+    </td>
 
-    <!-- <td>
+    <td>
         <img src="assets/images/Yong-Lae Park.png" width="268" height="300" alt="Yong-Lae Park"/>
         <br>
         <a href="https://softrobotics.snu.ac.kr/people.php" target="_blank" rel="noopener">Yong-Lae Park</a><br>
