@@ -8,7 +8,16 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 <img src="https://honghaolyu.github.io/intercontinental-teleoperation/assets/images/teleop-grasp.gif" width="400" height="240" alt="demo of dualarm grasp"/>
 </p> -->
 
+<<<<<<< HEAD
 # Organizers:
+=======
+# Abstract:
+Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.
+
+[Website](https://fsie-robotics.com/IROS2025-Workshop-AHFHR)
+
+# Organizers 
+>>>>>>> 1e18971f419b2ef3c050c0c8056a2b48e473a159
 
 <html lang="zh">
 <head> 
@@ -40,6 +49,15 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
  
 <table border="0">
 <tr>
+    
+    <td>
+        <img src="assets/images/Amy Kyungwon Han.jpg" width="auto" height="300" alt="Amy Kyungwon Han"/>
+        <br>
+        <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
+        Seoul National University<br>
+        amyhan@snu.ac.kr
+    </td>
+    
     <td>
         <img src="assets/images/Lyu Honghao img.jpg" width="auto" height="300" alt="Honghao Lyu"/>
         <br>
@@ -49,6 +67,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
     </td>
 
     <td>
+<<<<<<< HEAD
         <img src="assets/images/Amy Kyungwon Han.jpg" width="auto" height="300" alt="Amy Kyungwon Han"/>
         <br>
         <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
@@ -92,12 +111,115 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
     </td>
 
     <td>
+=======
+>>>>>>> 1e18971f419b2ef3c050c0c8056a2b48e473a159
         <img src="assets/images/Yang Geng.jpg" width="auto" height="300" alt="Geng Yang"/>
         <br>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
         Zhejiang University<br>
         yanggeng@zju.edu.cn
     </td>
+<<<<<<< HEAD
+=======
+
+    <!-- <td>
+        <img src="assets/images/Joshua Brown.png" width="auto" height="300" alt="Joshua Brown"/>
+        <br>
+        <a href="https://www.jb-robotics.com/" target="_blank" rel="noopener">Joshua Brown</a><br>
+        Imperial College London<br>
+        joshua.brown@imperial.ac.uk
+    </td> -->
+
+</tr>
+
+<tr>
+
+    <!-- <td>
+        <img src="assets/images/Won Soo Kim.jpg" width="auto" height="300" alt="Woo Soo Kim"/>
+        <br>
+        <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
+        Simon Fraser University<br>
+        woosook@sfu.ca
+    </td> -->
+
+    <!-- <td>
+        <img src="assets/images/Domenico Prattichizzo.jpg" width="268" height="300" alt="Domenico Prattichizzo"/>
+        <br>
+        <a href="https://www3.diism.unisi.it/~domenico/" target="_blank" rel="noopener">Domenico Prattichizzo</a><br>
+        University of Siena<br>
+        prattichizzo@ing.unisi.it
+    </td>
+
+    <td>
+        <img src="assets/images/Fernando Bello_img.png" width="auto" height="300" alt="Fernando Bello"/>
+        <br>
+        <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
+        Imperial College London<br>
+        f.bello@imperial.ac.uk
+    </td> -->
+</tr>
+
+</table>
+ 
+</body>
+</html>
+
+
+# Speakers:
+<html lang="zh">
+<head> 
+<meta charset="utf-8"> 
+<title>Organizers and Speakers</title> 
+<style>
+     table {
+        width: 1200px;
+        border-collapse: collapse; 
+        border: none; 
+    }
+
+    td {
+        background-color: #FFFFFF;
+        width: 300px;
+        text-align: center;
+        vertical-align: middle;
+        padding: 10px;
+        border: none; 
+    }
+
+    a {
+        text-decoration: none;
+        font-weight: bold;
+    }
+</style>
+</head>
+<body>
+ 
+<table border="0">
+<tr>
+    <td>
+        <img src="assets/images/Won Soo Kim.jpg" width="auto" height="300" alt="Woo Soo Kim"/>
+        <br>
+        <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
+        Simon Fraser University<br>
+        woosook@sfu.ca
+    </td>
+
+    <!-- <td>
+        <img src="assets/images/Domenico Prattichizzo.jpg" width="268" height="300" alt="Domenico Prattichizzo"/>
+        <br>
+        <a href="https://www3.diism.unisi.it/~domenico/" target="_blank" rel="noopener">Domenico Prattichizzo</a><br>
+        University of Siena<br>
+        prattichizzo@ing.unisi.it
+    </td>
+
+    <td>
+        <img src="assets/images/Fernando Bello_img.png" width="auto" height="300" alt="Fernando Bello"/>
+        <br>
+        <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
+        Imperial College London<br>
+        f.bello@imperial.ac.uk
+    </td> -->
+>>>>>>> 1e18971f419b2ef3c050c0c8056a2b48e473a159
 </tr>
 
 </table>
