@@ -223,6 +223,10 @@
     <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
   </tr>
 </table>
+<br>
+<p align="center">
+  <img src="assets/images/speakers.png" width="auto" height="auto" alt="speakers"/>
+</p>
 
 <br>
 <br>
