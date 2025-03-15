@@ -224,15 +224,11 @@
   </tr>
 </table>
 <br>
-<p align="center">
   <img src="assets/images/speakers.png" width="auto" height="auto" alt="speakers"/>
-</p>
 
 <br>
 <br>
-<p align="center">
   <img src="assets/images/IEEE_RAS_TC.png" width="auto" height="auto" alt="the footer of page"/>
-</p>
 
 </body>
 </html>
