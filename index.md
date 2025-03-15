@@ -101,17 +101,17 @@
 <h3>Intended audience and expected attendance:</h3>
 <p>The intended audience for this workshop includes researchers, engineers, healthcare professionals, and industry experts interested in haptic technologies and their applications in healthcare robotics. Attendees are expected to have backgrounds in robotics, biomedical engineering, haptics, human-robot interaction, or healthcare technology development. The workshop will specifically target members of relevant IEEE RAS Technical Committees (TCs), including:</p>
 
-<b>RAS TC for Haptics</b>: Researchers focused on tactile and force-feedback technologies, with <b>Prof. Amy Kyungwon Han serving as Co-chair</b> from 2024. 
-  <a href="https://www.ieee-ras.org/haptics" target="_blank">Link</a><br>
+<p style="text-align: justify;"><b>RAS TC for Haptics</b>: Researchers focused on tactile and force-feedback technologies, with <b>Prof. Amy Kyungwon Han serving as Co-chair</b> from 2024. 
+  <a href="https://www.ieee-ras.org/haptics" target="_blank">Link</a></p>
 
-<b>RAS TC for Human-Robot Interaction & Coordination</b>: Experts exploring interaction paradigms and user experience design, with <b>Dr. Honghao Lyu as a committee member</b>. 
-  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">Link</a><br>
+<p style="text-align: justify;"><b>RAS TC for Human-Robot Interaction & Coordination</b>: Experts exploring interaction paradigms and user experience design, with <b>Dr. Honghao Lyu as a committee member</b>. 
+  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">Link</a></p>
 
-<b>RAS TC for Rehabilitation and Assistive Robotics</b>: Specialists developing robotics solutions for healthcare and assistive applications. 
-  <a href="https://www.ieee-ras.org/rehabilitation-and-assistive-robotics" target="_blank">Link</a><br>
+<p style="text-align: justify;"><b>RAS TC for Rehabilitation and Assistive Robotics</b>: Specialists developing robotics solutions for healthcare and assistive applications. 
+  <a href="https://www.ieee-ras.org/rehabilitation-and-assistive-robotics" target="_blank">Link</a></p>
 
-<b>IES TC for Industrial Informatics</b>: Researchers developing information technologies and computational intelligence for healthcare applications, with <b>Dr. Honghao Lyu as a committee member</b>. 
-  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">Link</a>
+<p style="text-align: justify;"><b>IES TC for Industrial Informatics</b>: Researchers developing information technologies and computational intelligence for healthcare applications, with <b>Dr. Honghao Lyu as a committee member</b>. 
+  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">Link</a></p>
 
 <p>Additionally, the workshop will attract communities in telerobotics, robot learning, and robot ethics, alongside interdisciplinary stakeholders from healthcare institutions, startups, and policy-making bodies. By engaging these diverse groups, the workshop aims to foster cross-disciplinary collaboration and accelerate advancements in haptic technologies for healthcare applications. Based on attendance figures from similar past events at Hamlyn Symposium 2024 (Prof. Amy Kyungwon Han run a related workshop), IROS2024 and related conferences, we estimate that this workshop will attract between 50 to 100 attendees, excluding organizers and speakers.</p>
 
@@ -172,7 +172,7 @@
 <p>We will fully utilize the platform and network of the mentioned three IEEE RAS TCs and the IEEE IES TC-II, ensuring participation from a diverse and engaged audience across the various subfields of robotics and healthcare. The TC platform will facilitate cross-disciplinary interaction and increase visibility for the workshop, promoting continued collaboration beyond the event.</p>
 
 <h3>Tentative Schedule:</h3>
-Provide a (tentative) program for the workshop.<br>
+<p>Provide a (tentative) program for the workshop.</p>
 <table>
   <tr>
     <th>Time</th>
@@ -205,9 +205,9 @@ Provide a (tentative) program for the workshop.<br>
     <td>Order Maintenance: Dr. Gaoyang Pang</td>
   </tr>
   <tr>
-    <td>10:20–10:40</td>
-    <td>Coffee Break & Poster Session</td>
-    <td>Let’s chat and relax</td>
+    <td style="background-color: #f2f2f2;">10:20–10:40</td>
+    <td style="background-color: #f2f2f2;">Coffee Break & Poster Session</td>
+    <td style="background-color: #f2f2f2;">Let’s chat and relax</td>
   </tr>
   <tr>
     <td>10:40–11:00</td>
@@ -269,6 +269,8 @@ Provide a (tentative) program for the workshop.<br>
 <p style="text-indent: 2em;">4) Two auxiliary monitors and a large display/projection system;</p>
 <p style="text-indent: 2em;">5) Display capacity for 20-30 poster presentations.</p>
 
+<br>
+<br>
 <p align="center">
   <img src="assets/images/IEEE_RAS_TC.png" width="auto" height="auto" alt="the footer of page"/>
 </p>
