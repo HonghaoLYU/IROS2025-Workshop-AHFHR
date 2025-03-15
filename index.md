@@ -300,11 +300,12 @@
 </table>
 <b>Note: </b>If additional speaker invitations are confirmed, the agenda will be updated accordingly.
 <br>
-  <img src="assets/images/speakers.png" width="auto" height="auto" alt="speakers"/>
+<br>
+<img src="assets/images/speakers.png" width="auto" height="auto" alt="speakers"/>
 
 <br>
 <br>
-  <img src="assets/images/IEEE_RAS_TC.png" width="auto" height="auto" alt="the footer of page"/>
+<img src="assets/images/IEEE_RAS_TC.png" width="auto" height="auto" alt="the footer of page"/>
 
 </body>
 </html>
