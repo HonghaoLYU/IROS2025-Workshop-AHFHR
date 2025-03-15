@@ -54,45 +54,43 @@
 <h3>Organizers</h3>
 <table border="0">
   <tr>
-    <td>
-      <img src="assets/images/Lyu Honghao img.jpg" width="auto" height="300" alt="Honghao Lyu"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Lyu Honghao.jpg" style="width: 100%; height: 300px; object-fit: cover;" alt="Honghao Lyu"/>
       <br>
       <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
       Zhejiang University<br>
       lvhonghao@zju.edu.cn
     </td>
-    <td>
-      <img src="assets/images/Amy Kyungwon Han.jpg" width="auto" height="300" alt="Amy Kyungwon Han"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Amy Kyungwon Han.jpg" style="width: 100%; height: 300px; object-fit: cover;" alt="Amy Kyungwon Han"/>
       <br>
       <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
       Seoul National University<br>
       amyhan@snu.ac.kr
     </td>
-    <td>
-      <img src="assets/images/Fernando Bello_img.png" width="auto" height="300" alt="Fernando Bello"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Fernando Bello_img.png" style="width: 100%; height: 300px; object-fit: cover;" alt="Fernando Bello"/>
       <br>
       <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
       Imperial College London<br>
       f.bello@imperial.ac.uk
     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/images/Gaoyang Pang.jpg" width="auto" height="300" alt="Gaoyang Pang"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Gaoyang Pang.jpg" style="width: 100%; height: 300px; object-fit: cover;" alt="Gaoyang Pang"/>
       <br>
       <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
       Sydney University<br>
       gaoyang.pang@sydney.edu.au
     </td>
-    <td>
-      <img src="assets/images/Yong-Lae Park.png" width="auto" height="300" alt="Yong-Lae Park"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Yong-Lae Park.png" style="width: 100%; height: 300px; object-fit: cover;" alt="Yong-Lae Park"/>
       <br>
       <a href="https://softrobotics.snu.ac.kr/people.php" target="_blank" rel="noopener">Yong-Lae Park</a><br>
       Seoul National University<br>
       ylpark@snu.ac.kr
     </td>
-    <td>
-      <img src="assets/images/Yang Geng.jpg" width="auto" height="300" alt="Geng Yang"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Yang Geng.jpg" style="width: 100%; height: 300px; object-fit: cover;" alt="Geng Yang"/>
       <br>
       <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
       Zhejiang University<br>
@@ -100,7 +98,6 @@
     </td>
   </tr>
 </table>
-
 <h3>Content of the workshop and expected impact</h3>
 
 <h4>Objectives of the Workshop</h4>
@@ -109,38 +106,36 @@
 <h3>Invited speakers</h3>
 <table border="0">
   <tr>
-    <td>
-      <img src="assets/images/Won Soo Kim.jpg" width="auto" height="300" alt="Prof. Woo Soo Kim"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Won Soo Kim.jpg" style="width: 100%; height: 300px; object-fit: cover;" alt="Prof. Woo Soo Kim"/>
       <br>
       <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
       Simon Fraser University<br>
       woosook@sfu.ca
     </td>
-    <td>
-      <img src="assets/images/Michael C. Welle.png" width="auto" height="300" alt="Dr. Michael C. Welle"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Michael C. Welle.png" style="width: 100%; height: 300px; object-fit: cover;" alt="Dr. Michael C. Welle"/>
       <br>
       <a href="https://people.kth.se/~mwelle/" target="_blank" rel="noopener">Dr. Michael C. Welle</a><br>
       KTH royal institute of technology<br>
       mwelle@kth.se
     </td>
-    <td>
-      <img src="assets/images/Kaichen Xu.jpg" width="auto" height="300" alt="Prof. Kaichen Xu"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Kaichen Xu.jpg" style="width: 100%; height: 300px; object-fit: cover;" alt="Prof. Kaichen Xu"/>
       <br>
       <a href="https://blog.nus.edu.sg/xukaichen/" target="_blank" rel="noopener">Prof. Kaichen Xu</a><br>
       Zhejiang University<br>
       xukc@zju.edu.cn
     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/images/Yongjae Yoo.png" width="auto" height="300" alt="Prof. Yongjae Yoo"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Yongjae Yoo.png" style="width: 100%; height: 300px; object-fit: cover;" alt="Prof. Yongjae Yoo"/>
       <br>
       <a href="https://milab.hanyang.ac.kr/home" target="_blank" rel="noopener">Prof. Yongjae Yoo</a><br>
       Hanyang University<br>
       yongjaeyoo@hanyang.ac.kr
     </td>
-    <td>
-      <img src="assets/images/Yang Geng.jpg" width="auto" height="300" alt="Geng Yang"/>
+    <td style="width: 16.6%; text-align: center; padding: 10px;">
+      <img src="assets/images/Yang Geng.jpg" style="width: 100%; height: 300px; object-fit: cover;" alt="Geng Yang"/>
       <br>
       <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
       Zhejiang University<br>
@@ -193,9 +188,9 @@
     <td class="comments-column">Order Maintenance: Dr. Gaoyang Pang</td>
   </tr>
   <tr>
-    <td class="time-column" style="background-color: #f2f2f2;">10:20–10:40</td>
-    <td class="time-column" style="background-color: #f2f2f2;">Coffee Break & Poster Session</td>
-    <td class="time-column" style="background-color: #f2f2f2;">Let’s chat and relax</td>
+    <td class="time-column" style="background-color: #f7f7f7;">10:20–10:40</td>
+    <td class="time-column" style="background-color: #f7f7f7;">Coffee Break & Poster Session</td>
+    <td class="time-column" style="background-color: #f7f7f7;">Let’s chat and relax</td>
   </tr>
   <tr>
     <td class="time-column">10:40–11:00</td>
@@ -223,6 +218,7 @@
     <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
   </tr>
 </table>
+<b>Note: </b>If additional speaker invitations are confirmed, the agenda will be updated accordingly.
 <br>
   <img src="assets/images/speakers.png" width="auto" height="auto" alt="speakers"/>
 
