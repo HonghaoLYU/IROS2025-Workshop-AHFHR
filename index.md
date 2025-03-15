@@ -36,7 +36,6 @@
     }
     a {
       text-decoration: none;
-      font-weight: bold;
     }
     .image-container {
       display: flex;
@@ -46,15 +45,15 @@
       height: 350px; /* 限制容器高度 */
     }
     .image-container img {
-      width: 200px;
-      height: 262px; /* 按比例缩放 */
-      object-fit: contain; /* 不裁剪图片，保持比例 */
+      width: 191px; /* 固定宽度 */
+      height: 251px; /* 固定高度 */
+      object-fit: cover; /* 确保图片裁剪填满容器 */
     }
     .image-container div {
       font-size: 14px; /* 减小字体大小 */
       line-height: 1.2; /* 行高调整，避免文字重叠 */
       margin-top: 10px;
-    }
+    }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
   </style>
 </head>
 <body>
@@ -68,42 +67,37 @@
 <p>Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.</p>
 <b>Workshop Website: </b><a href="https://fsie-robotics.com/IROS2025-Workshop-AHFHR">https://fsie-robotics.com/IROS2025-Workshop-AHFHR</a>
 
+<h3>Organizers</h3>
 <table border="0" style="width: 90%; table-layout: fixed;">
   <tr>
     <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 第一行：图片 -->
-        <img src="assets/images/Lyu Honghao.jpg" style="width: 200px; height: auto; object-fit: contain;" alt="Honghao Lyu"/>
+      <div class="image-container">
+        <img src="assets/images/Lyu Honghao.jpg" alt="Honghao Lyu"/>
       </div>
     </td>
     <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 第一行：图片 -->
-        <img src="assets/images/Amy Kyungwon Han.jpg" style="width: 200px; height: auto; object-fit: contain;" alt="Amy Kyungwon Han"/>
+      <div class="image-container">
+        <img src="assets/images/Amy Kyungwon Han.jpg" alt="Amy Kyungwon Han"/>
       </div>
     </td>
     <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 第一行：图片 -->
-        <img src="assets/images/Fernando Bello.png" style="width: 200px; height: auto; object-fit: contain;" alt="Fernando Bello"/>
+      <div class="image-container">
+        <img src="assets/images/Fernando Bello.png" alt="Fernando Bello"/>
       </div>
     </td>
     <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 第一行：图片 -->
-        <img src="assets/images/Gaoyang Pang.jpg" style="width: 200px; height: auto; object-fit: contain;" alt="Gaoyang Pang"/>
+      <div class="image-container">
+        <img src="assets/images/Gaoyang Pang.jpg" alt="Gaoyang Pang"/>
       </div>
     </td>
     <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 第一行：图片 -->
-        <img src="assets/images/Yong-Lae Park.png" style="width: 200px; height: auto; object-fit: contain;" alt="Yong-Lae Park"/>
+      <div class="image-container">
+        <img src="assets/images/Yong-Lae Park.png" alt="Yong-Lae Park"/>
       </div>
     </td>
     <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 第一行：图片 -->
-        <img src="assets/images/Yang Geng.jpg" style="width: 200px; height: auto; object-fit: contain;" alt="Geng Yang"/>
+      <div class="image-container">
+        <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
       </div>
     </td>
   </tr>
@@ -153,7 +147,6 @@
     </td>
   </tr>
 </table>
-
 
 <h3>Content of the workshop and expected impact</h3>
 
