@@ -52,9 +52,9 @@
 <b>Workshop Website: </b><a href="https://fsie-robotics.com/IROS2025-Workshop-AHFHR">https://fsie-robotics.com/IROS2025-Workshop-AHFHR</a>
 
 <h3>Organizers</h3>
-<table border="0" style="width: 100%; table-layout: fixed;">
+<table border="0" style="width: 90%; table-layout: fixed;">
   <tr>
-    <td style="width: 16.6%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 10px;">
       <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
         <!-- 图片 -->
         <img src="assets/images/Lyu Honghao.jpg" style="width: 200px; height: 200px; object-fit: cover;" alt="Honghao Lyu"/>
@@ -66,7 +66,7 @@
         </div>
       </div>
     </td>
-    <td style="width: 16.6%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 10px;">
       <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
         <!-- 图片 -->
         <img src="assets/images/Amy Kyungwon Han.jpg" style="width: 200px; height: 200px; object-fit: cover;" alt="Amy Kyungwon Han"/>
@@ -78,10 +78,10 @@
         </div>
       </div>
     </td>
-    <td style="width: 16.6%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 10px;">
       <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
         <!-- 图片 -->
-        <img src="assets/images/Fernando Bello_img.png" style="width: 200px; height: 200px; object-fit: cover;" alt="Fernando Bello"/>
+        <img src="assets/images/Fernando Bello.png" style="width: 200px; height: 200px; object-fit: cover;" alt="Fernando Bello"/>
         <!-- 文本 -->
         <div>
           <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
@@ -90,7 +90,7 @@
         </div>
       </div>
     </td>
-    <td style="width: 16.6%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 10px;">
       <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
         <!-- 图片 -->
         <img src="assets/images/Gaoyang Pang.jpg" style="width: 200px; height: 200px; object-fit: cover;" alt="Gaoyang Pang"/>
@@ -102,7 +102,7 @@
         </div>
       </div>
     </td>
-    <td style="width: 16.6%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 10px;">
       <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
         <!-- 图片 -->
         <img src="assets/images/Yong-Lae Park.png" style="width: 200px; height: 200px; object-fit: cover;" alt="Yong-Lae Park"/>
@@ -114,7 +114,7 @@
         </div>
       </div>
     </td>
-    <td style="width: 16.6%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 10px;">
       <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
         <!-- 图片 -->
         <img src="assets/images/Yang Geng.jpg" style="width: 200px; height: 200px; object-fit: cover;" alt="Geng Yang"/>
