@@ -47,9 +47,8 @@
     }
     .image-container img {
       width: 200px;
-      height: auto; /* 按比例缩放 */
+      height: 262px; /* 按比例缩放 */
       object-fit: contain; /* 不裁剪图片，保持比例 */
-      border-radius: 50%; /* 可选：圆形图片 */
     }
     .image-container div {
       font-size: 14px; /* 减小字体大小 */
@@ -69,71 +68,92 @@
 <p>Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.</p>
 <b>Workshop Website: </b><a href="https://fsie-robotics.com/IROS2025-Workshop-AHFHR">https://fsie-robotics.com/IROS2025-Workshop-AHFHR</a>
 
-<h3>Organizers</h3>
 <table border="0" style="width: 90%; table-layout: fixed;">
   <tr>
+    <td style="width: 15%; text-align: center; padding: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
+        <!-- 第一行：图片 -->
+        <img src="assets/images/Lyu Honghao.jpg" style="width: 200px; height: auto; object-fit: contain;" alt="Honghao Lyu"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
+        <!-- 第一行：图片 -->
+        <img src="assets/images/Amy Kyungwon Han.jpg" style="width: 200px; height: auto; object-fit: contain;" alt="Amy Kyungwon Han"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
+        <!-- 第一行：图片 -->
+        <img src="assets/images/Fernando Bello.png" style="width: 200px; height: auto; object-fit: contain;" alt="Fernando Bello"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
+        <!-- 第一行：图片 -->
+        <img src="assets/images/Gaoyang Pang.jpg" style="width: 200px; height: auto; object-fit: contain;" alt="Gaoyang Pang"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
+        <!-- 第一行：图片 -->
+        <img src="assets/images/Yong-Lae Park.png" style="width: 200px; height: auto; object-fit: contain;" alt="Yong-Lae Park"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
+        <!-- 第一行：图片 -->
+        <img src="assets/images/Yang Geng.jpg" style="width: 200px; height: auto; object-fit: contain;" alt="Geng Yang"/>
+      </div>
+    </td>
+  </tr>
+  <!-- 第二行：文本 -->
+  <tr>
     <td style="text-align: center; padding: 10px;">
-      <div class="image-container">
-        <img src="assets/images/Lyu Honghao.jpg" alt="Honghao Lyu"/>
-        <div>
-          <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
-          Zhejiang University<br>
-          lvhonghao@zju.edu.cn
-        </div>
+      <div>
+        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
+        Zhejiang University<br>
+        lvhonghao@zju.edu.cn
       </div>
     </td>
     <td style="text-align: center; padding: 10px;">
-      <div class="image-container">
-        <img src="assets/images/Amy Kyungwon Han.jpg" alt="Amy Kyungwon Han"/>
-        <div>
-          <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
-          Seoul National University<br>
-          amyhan@snu.ac.kr
-        </div>
+      <div>
+        <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
+        Seoul National University<br>
+        amyhan@snu.ac.kr
       </div>
     </td>
     <td style="text-align: center; padding: 10px;">
-      <div class="image-container">
-        <img src="assets/images/Fernando Bello.png" alt="Fernando Bello"/>
-        <div>
-          <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
-          Imperial College London<br>
-          f.bello@imperial.ac.uk
-        </div>
+      <div>
+        <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
+        Imperial College London<br>
+        f.bello@imperial.ac.uk
       </div>
     </td>
     <td style="text-align: center; padding: 10px;">
-      <div class="image-container">
-        <img src="assets/images/Gaoyang Pang.jpg" alt="Gaoyang Pang"/>
-        <div>
-          <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
-          Sydney University<br>
-          gaoyang.pang@sydney.edu.au
-        </div>
+      <div>
+        <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
+        Sydney University<br>
+        gaoyang.pang@sydney.edu.au
       </div>
     </td>
     <td style="text-align: center; padding: 10px;">
-      <div class="image-container">
-        <img src="assets/images/Yong-Lae Park.png" alt="Yong-Lae Park"/>
-        <div>
-          <a href="https://softrobotics.snu.ac.kr/people.php" target="_blank" rel="noopener">Yong-Lae Park</a><br>
-          Seoul National University<br>
-          ylpark@snu.ac.kr
-        </div>
+      <div>
+        <a href="https://softrobotics.snu.ac.kr/people.php" target="_blank" rel="noopener">Yong-Lae Park</a><br>
+        Seoul National University<br>
+        ylpark@snu.ac.kr
       </div>
     </td>
     <td style="text-align: center; padding: 10px;">
-      <div class="image-container">
-        <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
-        <div>
-          <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
-          Zhejiang University<br>
-          yanggeng@zju.edu.cn
-        </div>
+      <div>
+        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
+        Zhejiang University<br>
+        yanggeng@zju.edu.cn
       </div>
     </td>
   </tr>
 </table>
+
 
 <h3>Content of the workshop and expected impact</h3>
 
