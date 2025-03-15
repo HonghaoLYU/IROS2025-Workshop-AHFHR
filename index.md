@@ -19,7 +19,8 @@
       vertical-align: middle;
       padding: 5px;
       border: 1px solid #ddd;
-      word-wrap: break-word;
+      word-break: break-word;
+      white-space: normal;
     }
     th {
       background-color: #f2f2f2;
@@ -104,42 +105,42 @@
   </tr>
   <!-- 第二行：文本 -->
   <tr>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
         Zhejiang University<br>
         lvhonghao@zju.edu.cn
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
         Seoul National University<br>
         amyhan@snu.ac.kr
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
         Imperial College London<br>
         f.bello@imperial.ac.uk
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
         Sydney University<br>
-        gaoyang.pang@sydney.edu.auuuuuuuu
+        gaoyang.pang@sydney.edu.aummmm
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://softrobotics.snu.ac.kr/people.php" target="_blank" rel="noopener">Yong-Lae Park</a><br>
         Seoul National University<br>
         ylpark@snu.ac.kr
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
         Zhejiang University<br>
@@ -185,35 +186,35 @@
   </tr>
   <!-- 第二行：文本 -->
   <tr>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Prof. Woo Soo Kim</a><br>
         Simon Fraser University<br>
         woosook@sfu.ca
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://people.kth.se/~mwelle/" target="_blank" rel="noopener">Dr. Michael C. Welle</a><br>
         KTH royal institute of technology<br>
         mwelle@kth.se
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://blog.nus.edu.sg/xukaichen/" target="_blank" rel="noopener">Prof. Kaichen Xu</a><br>
         Zhejiang University<br>
         xukc@zju.edu.cn
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://milab.hanyang.ac.kr/home" target="_blank" rel="noopener">Prof. Yongjae Yoo</a><br>
         Hanyang University<br>
         yongjaeyoo@hanyang.ac.kr
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; word-wrap: break-word;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
         Zhejiang University<br>
