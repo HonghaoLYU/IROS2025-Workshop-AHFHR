@@ -24,6 +24,16 @@
       background-color: #f2f2f2;
       padding: 10px;
     }
+    /* 设置列宽 */
+    .time-column {
+      width: 15%;
+    }
+    .talk-column {
+      width: 50%;
+    }
+    .comments-column {
+      width: 35%;
+    }
     a {
       text-decoration: none;
       font-weight: bold;
@@ -95,26 +105,6 @@
 <h4>Objectives of the Workshop</h4>
 <p>The objective of this workshop is to explore and promote the integration of advanced haptic technologies in healthcare robotics, focusing on enhancing rehabilitation, assistive devices, and patient care. The workshop aims to showcase cutting-edge innovations in haptic feedback systems, emphasizing their applications in robotic rehabilitation platforms and assistive solutions for individuals with disabilities or mobility challenges. By fostering cross-disciplinary collaboration between robotics researchers, healthcare professionals, and engineers, the event will address key challenges in the design and implementation of haptic systems, such as real-time feedback, sensor accuracy, and user-centered development. It will also examine the ethical, regulatory, and societal implications of deploying haptic-enabled healthcare robots, discussing issues like privacy, autonomy, and equity. Lastly, the workshop will provide a platform for future research and innovation, advancing the role of haptic technologies in healthcare and catalyzing growth in this field.</p>
 
-<h4>Ensure the Highest Quality</h4>
-<p>This workshop aims to introduce the emerging research area of haptic technologies for healthcare robotic applications, a topic not fully addressed by most robotics conferences. The workshop will engage attendees through invited talks, panel discussions, live demonstrations, and poster sessions showcasing cutting-edge research. Interactive breakout sessions and networking opportunities will foster collaboration, brainstorming, and idea exchange, ensuring active participation and meaningful discussions to advance haptic technologies for healthcare robotics. Without such a workshop, researchers and practitioners may struggle to find a platform for in-depth discussions and dissemination of their work specifically focused on haptic techniques for healthcare. Additionally, this workshop will serve as a catalyst for future events and collaborations in this growing field. By hosting this workshop, IROS can further cement its leadership position in a rapidly evolving area of research that is poised for significant growth in the coming years. Thus, a dedicated workshop on this topic is both timely and essential.</p>
-
-<h3>Intended audience and expected attendance:</h3>
-<p>The intended audience for this workshop includes researchers, engineers, healthcare professionals, and industry experts interested in haptic technologies and their applications in healthcare robotics. Attendees are expected to have backgrounds in robotics, biomedical engineering, haptics, human-robot interaction, or healthcare technology development. The workshop will specifically target members of relevant IEEE RAS Technical Committees (TCs), including:</p>
-
-<p style="text-align: justify;"><b>RAS TC for Haptics</b>: Researchers focused on tactile and force-feedback technologies, with <b>Prof. Amy Kyungwon Han serving as Co-chair</b> from 2024. 
-  <a href="https://www.ieee-ras.org/haptics" target="_blank">Link</a></p>
-
-<p style="text-align: justify;"><b>RAS TC for Human-Robot Interaction & Coordination</b>: Experts exploring interaction paradigms and user experience design, with <b>Dr. Honghao Lyu as a committee member</b>. 
-  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">Link</a></p>
-
-<p style="text-align: justify;"><b>RAS TC for Rehabilitation and Assistive Robotics</b>: Specialists developing robotics solutions for healthcare and assistive applications. 
-  <a href="https://www.ieee-ras.org/rehabilitation-and-assistive-robotics" target="_blank">Link</a></p>
-
-<p style="text-align: justify;"><b>IES TC for Industrial Informatics</b>: Researchers developing information technologies and computational intelligence for healthcare applications, with <b>Dr. Honghao Lyu as a committee member</b>. 
-  <a href="https://www.ieee-ras.org/human-robot-interaction-coordination" target="_blank">Link</a></p>
-
-<p>Additionally, the workshop will attract communities in telerobotics, robot learning, and robot ethics, alongside interdisciplinary stakeholders from healthcare institutions, startups, and policy-making bodies. By engaging these diverse groups, the workshop aims to foster cross-disciplinary collaboration and accelerate advancements in haptic technologies for healthcare applications. Based on attendance figures from similar past events at Hamlyn Symposium 2024 (Prof. Amy Kyungwon Han run a related workshop), IROS2024 and related conferences, we estimate that this workshop will attract between 50 to 100 attendees, excluding organizers and speakers.</p>
-
 <h3>Speakers:</h3>
 <table border="0">
   <tr>
@@ -158,8 +148,6 @@
   </tr>
 </table>
 
-<p>The proposed workshop features a diverse lineup of speakers, including Prof. Woo Soo Kim from Simon Fraser University, an expert in additive manufacturing, and Prof. Yongjae Yoo from Hanyang University, a pioneer in medical robot tactile technology. Other notable speakers include Dr. Michael Welle from KTH Royal Institute of Technology, who has developed vision-based tactile sensors, and Prof. Geng Yang from Zhejiang University, a specialist in intelligent sensing and human-robot interaction. The roster also features Prof. Kaichen Xu from Zhejiang University, an innovator in micro-nano bioelectronics interfaces, and Prof. Xinge Yu from City University of Hong Kong, a leader in flexible wearable health monitoring technology. This group represents a blend of expertise from North America, Northern Europe, and East Asia while also considering seniority diversity, which will foster a rich dialogue between academia and industry.</p>
-
 <h3>Structure of the workshop:</h3>
 
 <p>The workshop will be structured to encourage open-ended discussions and active participation, especially between established experts and early-career researchers. The structure includes:</p>
@@ -175,99 +163,66 @@
 <p>Provide a (tentative) program for the workshop.</p>
 <table>
   <tr>
-    <th>Time</th>
-    <th>Talk</th>
-    <th>Comments</th>
+    <th class="time-column">Time</th>
+    <th class="talk-column">Talk</th>
+    <th class="comments-column">Comments</th>
   </tr>
   <tr>
-    <td>8:00–8:50</td>
-    <td>Registration</td>
-    <td>Host: Dr. Honghao Lyu</td>
+    <td class="time-column">8:00–8:50</td>
+    <td class="talk-column">Registration</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu</td>
   </tr>
   <tr>
-    <td>8:50–9:00</td>
-    <td>Welcome and Introduction</td>
-    <td>Host: Prof. Amy Kyungwon Han</td>
+    <td class="time-column">8:50–9:00</td>
+    <td class="talk-column">Welcome and Introduction</td>
+    <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
   </tr>
   <tr>
-    <td>9:00–9:20</td>
-    <td>Prof. Woo Soo Kim: New Frontiers in 3D Structural Sensing for Healthcare Applications (tentative)</td>
-    <td>Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
+    <td class="time-column">9:00–9:20</td>
+    <td class="talk-column">Prof. Woo Soo Kim: New Frontiers in 3D Structural Sensing for Healthcare Applications (tentative)</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
   </tr>
   <tr>
-    <td>9:20–9:40</td>
-    <td>Dr. Michael C. Welle: Enabling Robot Manipulation of Soft and Rigid Objects with Vision-based Tactile Sensors (tentative)</td>
-    <td>Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
+    <td class="time-column">9:20–9:40</td>
+    <td class="talk-column">Dr. Michael C. Welle: Enabling Robot Manipulation of Soft and Rigid Objects with Vision-based Tactile Sensors (tentative)</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
   </tr>
   <tr>
-    <td>9:40–10:20</td>
-    <td>Lightning Talks</td>
-    <td>Order Maintenance: Dr. Gaoyang Pang</td>
+    <td class="time-column">9:40–10:20</td>
+    <td class="talk-column">Lightning Talks</td>
+    <td class="comments-column">Order Maintenance: Dr. Gaoyang Pang</td>
   </tr>
   <tr>
-    <td style="background-color: #f2f2f2;">10:20–10:40</td>
-    <td style="background-color: #f2f2f2;">Coffee Break & Poster Session</td>
-    <td style="background-color: #f2f2f2;">Let’s chat and relax</td>
+    <td class="time-column" style="background-color: #f2f2f2;">10:20–10:40</td>
+    <td class="time-column" style="background-color: #f2f2f2;">Coffee Break & Poster Session</td>
+    <td class="time-column" style="background-color: #f2f2f2;">Let’s chat and relax</td>
   </tr>
   <tr>
-    <td>10:40–11:00</td>
-    <td>Prof. Kaichen Xu: Multifunctional Flexible Sensors for Healthcare Robots (tentative)</td>
-    <td>Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
+    <td class="time-column">10:40–11:00</td>
+    <td class="talk-column">Prof. Kaichen Xu: Multifunctional Flexible Sensors for Healthcare Robots (tentative)</td>
+    <td class="comments-column">Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
   </tr>
   <tr>
-    <td>11:00–11:20</td>
-    <td>Prof. Yongjae Yoo: Dual-Frequency Superimposed Vibration for Robot Haptic Ability (tentative)</td>
-    <td>Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
+    <td class="time-column">11:00–11:20</td>
+    <td class="talk-column">Prof. Yongjae Yoo: Dual-Frequency Superimposed Vibration for Robot Haptic Ability (tentative)</td>
+    <td class="comments-column">Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
   </tr>
   <tr>
-    <td>11:20–11:40</td>
-    <td>Prof. Geng Yang: A Deep Learning-Enhanced Super-Resolution Tactile Sensor (tentative)</td>
-    <td>Should any additional speaker invitations be confirmed, the agenda will be updated accordingly.</td>
+    <td class="time-column">11:20–11:40</td>
+    <td class="talk-column">Prof. Geng Yang: A Deep Learning-Enhanced Super-Resolution Tactile Sensor (tentative)</td>
+    <td class="comments-column">Should any additional speaker invitations be confirmed, the agenda will be updated accordingly.</td>
   </tr>
   <tr>
-    <td>11:40–12:10</td>
-    <td>Interactive Session</td>
-    <td>Host: Prof. Amy Kyungwon Han</td>
+    <td class="time-column">11:40–12:10</td>
+    <td class="talk-column">Interactive Session</td>
+    <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
   </tr>
   <tr>
-    <td>12:10–12:30</td>
-    <td>Plenary, TC Action Planning and Wrap-Up</td>
-    <td>Host: Prof. Amy Kyungwon Han</td>
+    <td class="time-column">12:10–12:30</td>
+    <td class="talk-column">Plenary, TC Action Planning and Wrap-Up</td>
+    <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
   </tr>
 </table>
-
-<h3>Plan to solicit participation:</h3>
-
-<p>To encourage broad and diverse participation, we will utilize a multi-channel approach for advertising the workshop and engaging potential attendees:</p>
-
-<p style="text-indent: 2em;"><b>1) Social Media:</b> The workshop will be promoted via our official workshop website, with updates and announcements shared across LinkedIn, ResearchGate, and IEEE Collabratec platforms to reach a wide academic and professional audience.</p>
-<p style="text-indent: 2em;"><b>2) Online Platforms:</b> We will live-stream the event via Zoom to ensure broader participation, enabling remote attendees to engage with the discussions in real time. This hybrid approach will enhance the visibility and accessibility of the workshop, fostering a global audience and encouraging wider involvement.</p>
-<p style="text-indent: 2em;"><b>3) Mailing Lists:</b> We will distribute workshop details through IEEE RAS mailing lists, including those for relevant Technical Committees (TCs) like Haptics, Human-Robot Interaction, and Rehabilitation Robotics. This ensures outreach to a targeted audience of researchers, engineers, and healthcare professionals actively working in related fields.</p>
-<p style="text-indent: 2em;"><b>4) Technical Committees:</b> We will work closely with IEEE RAS TCs and other related communities to advertise the workshop and encourage participation from their networks. These TCs have broad reach and active membership in key areas of haptics and healthcare robotics.</p>
-<p style="text-indent: 2em;"><b>5) Institutions and Organizations:</b> We will leverage existing partnerships with key industry players, including <b>Hangzhou Shenhao Technology</b> (a leading robotics company), <b>Zhiyuan Robotics</b> (a robotics startup), and <b>Sir Run Run Shaw Hospital of ZJU</b>, to promote the event. These organizations have been involved in prior collaborations with the workshop organizers, and their networks will play a crucial role in ensuring a wide reach.</p>
-<p style="text-indent: 2em;"><b>6) Experienced Organizers:</b> All organizers have extensive experience in managing and organizing academic events and conferences in the fields of healthcare robotics and haptic technologies. Their proven track record in successfully organizing similar events ensures a high-quality, well-coordinated workshop experience that will maximize participant engagement and fruitful discussions.</p>
-<p style="text-indent: 2em;"><b>7) Honors and Rewards:</b> The workshop will institute Workshop Best Paper and Best Poster awards, providing tangible incentives such as culturally significant local artisan collaborations (e.g., 3D-printed heritage replicas) paired with practical tech rewards like programmable IoT development kits to stimulate participation excellence.</p>
-
-<h3>Dissemination:</h3>
-
-<p>To maximize the impact of the workshop, we plan to disseminate workshop materials through several key channels:</p>
-
-<p style="text-indent: 2em;"><b>1) Poster Abstracts and Proceedings:</b> A digital repository will be created on the official workshop website, where participants can access poster abstracts, presentation slides, and other related materials. This will allow participants to revisit key insights and foster continued discussion beyond the event.</p>
-<p style="text-indent: 2em;"><b>2) Special Issues in Journals:</b> We aim to collaborate with relevant journals in the fields of robotics, haptics, and healthcare technology to publish a special issue featuring selected papers and key findings from the workshop (IEEE Transactions on Haptics, IEEE Journal of Biomedical and Health Informatics, etc.). This will provide a high-quality platform for disseminating research outcomes to a broader audience.</p>
-<p style="text-indent: 2em;"><b>3) Workshop Highlights:</b> A summary of key workshop discussions and outcomes will be shared via the IEEE RAS newsletter and social media platforms, ensuring that both the academic community and industry stakeholders are kept informed of the latest advancements.</p>
-<p style="text-indent: 2em;"><b>4) Collaborations with Partner Institutions:</b> We will leverage the networks of our partner institutions, including Shenhao Technology, Zhiyuan Robotics, et al. to further distribute workshop materials and extend the reach of the event.</p>
-
-<p>By utilizing these diverse channels, we will ensure that the workshop's outcomes are widely disseminated and that its impact extends beyond the event itself.</p>
-
-<h3>Equipment:</h3>
-
-<p>For the workshop, we request the following:</p>
-
-<p style="text-indent: 2em;">1) Auditorium-style seating for 100 attendees with writing surfaces;</p>
-<p style="text-indent: 2em;">2) Dedicated power strips for presenters' tables and front-row seats;</p>
-<p style="text-indent: 2em;">3) Four wireless microphones (two handheld, two lavalier);</p>
-<p style="text-indent: 2em;">4) Two auxiliary monitors and a large display/projection system;</p>
-<p style="text-indent: 2em;">5) Display capacity for 20-30 poster presentations.</p>
 
 <br>
 <br>
