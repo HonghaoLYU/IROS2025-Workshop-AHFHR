@@ -38,6 +38,24 @@
       text-decoration: none;
       font-weight: bold;
     }
+    .image-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 350px; /* 限制容器高度 */
+    }
+    .image-container img {
+      width: 200px;
+      height: auto; /* 按比例缩放 */
+      object-fit: contain; /* 不裁剪图片，保持比例 */
+      border-radius: 50%; /* 可选：圆形图片 */
+    }
+    .image-container div {
+      font-size: 14px; /* 减小字体大小 */
+      line-height: 1.2; /* 行高调整，避免文字重叠 */
+      margin-top: 10px;
+    }
   </style>
 </head>
 <body>
