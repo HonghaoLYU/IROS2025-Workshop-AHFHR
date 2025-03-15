@@ -51,7 +51,7 @@
       object-fit: cover; /* 确保图片裁剪填满容器 */
     }
     .image-container div {
-      font-size: 12px; /* 减小字体大小 */
+      font-size: 14px; /* 减小字体大小 */
       line-height: 1.2; /* 行高调整，避免文字重叠 */
       margin-top: 8px;
     }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
@@ -104,42 +104,42 @@
   </tr>
   <!-- 第二行：文本 -->
   <tr>
-    <td style="text-align: center; padding: 5px; font-size: 12px;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
         Zhejiang University<br>
         lvhonghao@zju.edu.cn
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 12px;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
         Seoul National University<br>
         amyhan@snu.ac.kr
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 12px;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
         Imperial College London<br>
         f.bello@imperial.ac.uk
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 12px;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
         Sydney University<br>
         gaoyang.pang@sydney.edu.au
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 12px;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://softrobotics.snu.ac.kr/people.php" target="_blank" rel="noopener">Yong-Lae Park</a><br>
         Seoul National University<br>
         ylpark@snu.ac.kr
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 12px;">
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
       <div>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
         Zhejiang University<br>
@@ -155,44 +155,70 @@
 <p>The objective of this workshop is to explore and promote the integration of advanced haptic technologies in healthcare robotics, focusing on enhancing rehabilitation, assistive devices, and patient care. The workshop aims to showcase cutting-edge innovations in haptic feedback systems, emphasizing their applications in robotic rehabilitation platforms and assistive solutions for individuals with disabilities or mobility challenges. By fostering cross-disciplinary collaboration between robotics researchers, healthcare professionals, and engineers, the event will address key challenges in the design and implementation of haptic systems, such as real-time feedback, sensor accuracy, and user-centered development. It will also examine the ethical, regulatory, and societal implications of deploying haptic-enabled healthcare robots, discussing issues like privacy, autonomy, and equity. Lastly, the workshop will provide a platform for future research and innovation, advancing the role of haptic technologies in healthcare and catalyzing growth in this field.</p>
 
 <h3>Invited speakers</h3>
-<table border="0">
+<table border="0" style="width: 90%; table-layout: fixed;">
   <tr>
-    <td>
-      <img src="assets/images/Won Soo Kim.jpg" width="auto" height="300" alt="Prof. Woo Soo Kim"/>
-      <br>
-      <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Woo Soo Kim</a><br>
-      Simon Fraser University<br>
-      woosook@sfu.ca
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Won Soo Kim.jpg" alt="Prof. Woo Soo Kim"/>
+      </div>
     </td>
-    <td>
-      <img src="assets/images/Michael C. Welle.png" width="auto" height="300" alt="Dr. Michael C. Welle"/>
-      <br>
-      <a href="https://people.kth.se/~mwelle/" target="_blank" rel="noopener">Dr. Michael C. Welle</a><br>
-      KTH royal institute of technology<br>
-      mwelle@kth.se
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Michael C. Welle.png" alt="Dr. Michael C. Welle"/>
+      </div>
     </td>
-    <td>
-      <img src="assets/images/Kaichen Xu.jpg" width="auto" height="300" alt="Prof. Kaichen Xu"/>
-      <br>
-      <a href="https://blog.nus.edu.sg/xukaichen/" target="_blank" rel="noopener">Prof. Kaichen Xu</a><br>
-      Zhejiang University<br>
-      xukc@zju.edu.cn
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Kaichen Xu.jpg" alt="Prof. Kaichen Xu"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Yongjae Yoo.png" alt="Prof. Yongjae Yoo"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
+      </div>
     </td>
   </tr>
+  <!-- 第二行：文本 -->
   <tr>
-    <td>
-      <img src="assets/images/Yongjae Yoo.png" width="auto" height="300" alt="Prof. Yongjae Yoo"/>
-      <br>
-      <a href="https://milab.hanyang.ac.kr/home" target="_blank" rel="noopener">Prof. Yongjae Yoo</a><br>
-      Hanyang University<br>
-      yongjaeyoo@hanyang.ac.kr
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
+      <div>
+        <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Prof. Woo Soo Kim</a><br>
+        Simon Fraser University<br>
+        woosook@sfu.ca
+      </div>
     </td>
-    <td>
-      <img src="assets/images/Yang Geng.jpg" width="auto" height="300" alt="Geng Yang"/>
-      <br>
-      <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
-      Zhejiang University<br>
-      yanggeng@zju.edu.cn
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
+      <div>
+        <a href="https://people.kth.se/~mwelle/" target="_blank" rel="noopener">Dr. Michael C. Welle</a><br>
+        KTH royal institute of technology<br>
+        mwelle@kth.se
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
+      <div>
+        <a href="https://blog.nus.edu.sg/xukaichen/" target="_blank" rel="noopener">Prof. Kaichen Xu</a><br>
+        Zhejiang University<br>
+        xukc@zju.edu.cn
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
+      <div>
+        <a href="https://milab.hanyang.ac.kr/home" target="_blank" rel="noopener">Prof. Yongjae Yoo</a><br>
+        Hanyang University<br>
+        yongjaeyoo@hanyang.ac.kr
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px;">
+      <div>
+        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
+        Zhejiang University<br>
+        yanggeng@zju.edu.cn
+      </div>
     </td>
   </tr>
 </table>
