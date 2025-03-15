@@ -43,14 +43,15 @@
 <body>
 
 <h1>IROS2025 Workshop</h1>
-<h2>Advanced Haptic Technologies for Healthcare Robots</h2>
+<h2>Advanced Haptic Sensors and Devices for Healthcare Robots</h2>
 
 <p>Tips: You can get a better experience of this site in <a href="https://www.google.com/chrome">Google chrome</a> browser.</p>
 
-<h3>Abstract:</h3>
-<p>Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics. <a href="https://fsie-robotics.com/IROS2025-Workshop-AHFHR">Website</a></p>
+<h3>Abstract and Website</h3>
+<p>Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.</p>
+<b>Workshop Website: </b><a href="https://fsie-robotics.com/IROS2025-Workshop-AHFHR">https://fsie-robotics.com/IROS2025-Workshop-AHFHR</a>
 
-<h3>Organizers:</h3>
+<h3>Organizers</h3>
 <table border="0">
   <tr>
     <td>
@@ -100,12 +101,12 @@
   </tr>
 </table>
 
-<h3>Content of the workshop and expected impact:</h3>
+<h3>Content of the workshop and expected impact</h3>
 
 <h4>Objectives of the Workshop</h4>
 <p>The objective of this workshop is to explore and promote the integration of advanced haptic technologies in healthcare robotics, focusing on enhancing rehabilitation, assistive devices, and patient care. The workshop aims to showcase cutting-edge innovations in haptic feedback systems, emphasizing their applications in robotic rehabilitation platforms and assistive solutions for individuals with disabilities or mobility challenges. By fostering cross-disciplinary collaboration between robotics researchers, healthcare professionals, and engineers, the event will address key challenges in the design and implementation of haptic systems, such as real-time feedback, sensor accuracy, and user-centered development. It will also examine the ethical, regulatory, and societal implications of deploying haptic-enabled healthcare robots, discussing issues like privacy, autonomy, and equity. Lastly, the workshop will provide a platform for future research and innovation, advancing the role of haptic technologies in healthcare and catalyzing growth in this field.</p>
 
-<h3>Speakers:</h3>
+<h3>Invited speakers</h3>
 <table border="0">
   <tr>
     <td>
@@ -148,7 +149,7 @@
   </tr>
 </table>
 
-<h3>Structure of the workshop:</h3>
+<h3>Structure of the workshop</h3>
 
 <p>The workshop will be structured to encourage open-ended discussions and active participation, especially between established experts and early-career researchers. The structure includes:</p>
 
@@ -160,7 +161,6 @@
 <p>We will fully utilize the platform and network of the mentioned three IEEE RAS TCs and the IEEE IES TC-II, ensuring participation from a diverse and engaged audience across the various subfields of robotics and healthcare. The TC platform will facilitate cross-disciplinary interaction and increase visibility for the workshop, promoting continued collaboration beyond the event.</p>
 
 <h3>Tentative Schedule:</h3>
-<p>Provide a (tentative) program for the workshop.</p>
 <table>
   <tr>
     <th class="time-column">Time</th>
