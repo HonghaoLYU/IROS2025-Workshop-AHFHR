@@ -17,8 +17,9 @@
       width: 300px;
       text-align: center;
       vertical-align: middle;
-      padding: 10px;
+      padding: 5px;
       border: 1px solid #ddd;
+      word-wrap: break-word;
     }
     th {
       background-color: #f2f2f2;
@@ -42,7 +43,7 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      height: 350px; /* 限制容器高度 */
+      height: 275px; /* 限制容器高度 */
     }
     .image-container img {
       width: 191px; /* 固定宽度 */
@@ -50,9 +51,9 @@
       object-fit: cover; /* 确保图片裁剪填满容器 */
     }
     .image-container div {
-      font-size: 14px; /* 减小字体大小 */
+      font-size: 12px; /* 减小字体大小 */
       line-height: 1.2; /* 行高调整，避免文字重叠 */
-      margin-top: 10px;
+      margin-top: 8px;
     }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
   </style>
 </head>
@@ -70,32 +71,32 @@
 <h3>Organizers</h3>
 <table border="0" style="width: 90%; table-layout: fixed;">
   <tr>
-    <td style="width: 15%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Lyu Honghao.jpg" alt="Honghao Lyu"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Amy Kyungwon Han.jpg" alt="Amy Kyungwon Han"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Fernando Bello.png" alt="Fernando Bello"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Gaoyang Pang.jpg" alt="Gaoyang Pang"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Yong-Lae Park.png" alt="Yong-Lae Park"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
+    <td style="width: 15%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
       </div>
@@ -103,42 +104,42 @@
   </tr>
   <!-- 第二行：文本 -->
   <tr>
-    <td style="text-align: center; padding: 10px;">
+    <td style="text-align: center; padding: 5px; font-size: 12px;">
       <div>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
         Zhejiang University<br>
         lvhonghao@zju.edu.cn
       </div>
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td style="text-align: center; padding: 5px; font-size: 12px;">
       <div>
         <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
         Seoul National University<br>
         amyhan@snu.ac.kr
       </div>
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td style="text-align: center; padding: 5px; font-size: 12px;">
       <div>
         <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
         Imperial College London<br>
         f.bello@imperial.ac.uk
       </div>
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td style="text-align: center; padding: 5px; font-size: 12px;">
       <div>
         <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
         Sydney University<br>
         gaoyang.pang@sydney.edu.au
       </div>
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td style="text-align: center; padding: 5px; font-size: 12px;">
       <div>
         <a href="https://softrobotics.snu.ac.kr/people.php" target="_blank" rel="noopener">Yong-Lae Park</a><br>
         Seoul National University<br>
         ylpark@snu.ac.kr
       </div>
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td style="text-align: center; padding: 5px; font-size: 12px;">
       <div>
         <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
         Zhejiang University<br>
