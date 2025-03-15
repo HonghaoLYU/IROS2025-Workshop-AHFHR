@@ -54,11 +54,9 @@
 <h3>Organizers</h3>
 <table border="0" style="width: 90%; table-layout: fixed;">
   <tr>
-    <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 图片 -->
-        <img src="assets/images/Lyu Honghao.jpg" style="width: 200px; height: 200px; object-fit: cover;" alt="Honghao Lyu"/>
-        <!-- 文本 -->
+    <td style="text-align: center; padding: 10px;">
+      <div class="image-container">
+        <img src="assets/images/Lyu Honghao.jpg" alt="Honghao Lyu"/>
         <div>
           <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
           Zhejiang University<br>
@@ -66,11 +64,9 @@
         </div>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 图片 -->
-        <img src="assets/images/Amy Kyungwon Han.jpg" style="width: 200px; height: 200px; object-fit: cover;" alt="Amy Kyungwon Han"/>
-        <!-- 文本 -->
+    <td style="text-align: center; padding: 10px;">
+      <div class="image-container">
+        <img src="assets/images/Amy Kyungwon Han.jpg" alt="Amy Kyungwon Han"/>
         <div>
           <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
           Seoul National University<br>
@@ -78,11 +74,9 @@
         </div>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 图片 -->
-        <img src="assets/images/Fernando Bello.png" style="width: 200px; height: 200px; object-fit: cover;" alt="Fernando Bello"/>
-        <!-- 文本 -->
+    <td style="text-align: center; padding: 10px;">
+      <div class="image-container">
+        <img src="assets/images/Fernando Bello.png" alt="Fernando Bello"/>
         <div>
           <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
           Imperial College London<br>
@@ -90,11 +84,9 @@
         </div>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 图片 -->
-        <img src="assets/images/Gaoyang Pang.jpg" style="width: 200px; height: 200px; object-fit: cover;" alt="Gaoyang Pang"/>
-        <!-- 文本 -->
+    <td style="text-align: center; padding: 10px;">
+      <div class="image-container">
+        <img src="assets/images/Gaoyang Pang.jpg" alt="Gaoyang Pang"/>
         <div>
           <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
           Sydney University<br>
@@ -102,11 +94,9 @@
         </div>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 图片 -->
-        <img src="assets/images/Yong-Lae Park.png" style="width: 200px; height: 200px; object-fit: cover;" alt="Yong-Lae Park"/>
-        <!-- 文本 -->
+    <td style="text-align: center; padding: 10px;">
+      <div class="image-container">
+        <img src="assets/images/Yong-Lae Park.png" alt="Yong-Lae Park"/>
         <div>
           <a href="https://softrobotics.snu.ac.kr/people.php" target="_blank" rel="noopener">Yong-Lae Park</a><br>
           Seoul National University<br>
@@ -114,11 +104,9 @@
         </div>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 10px;">
-      <div style="display: flex; flex-direction: column; align-items: center; height: 400px;">
-        <!-- 图片 -->
-        <img src="assets/images/Yang Geng.jpg" style="width: 200px; height: 200px; object-fit: cover;" alt="Geng Yang"/>
-        <!-- 文本 -->
+    <td style="text-align: center; padding: 10px;">
+      <div class="image-container">
+        <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
         <div>
           <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
           Zhejiang University<br>
