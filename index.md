@@ -129,7 +129,7 @@
       <div>
         <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
         Sydney University<br>
-        gaoyang.pang@sydney.edu.au
+        gaoyang.pang@sydney.edu.auuuuuuuu
       </div>
     </td>
     <td style="text-align: center; padding: 5px; font-size: 14px;">
