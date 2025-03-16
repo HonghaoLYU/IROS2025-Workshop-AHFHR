@@ -142,7 +142,7 @@
     </td>
     <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
       <div>
-        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
+        <a href="http://www.fsie-zju.com/" target="_blank" rel="noopener">Geng Yang</a><br>
         Zhejiang University<br>
         yanggeng@zju.edu.cn
       </div>
@@ -216,7 +216,7 @@
     </td>
     <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
       <div>
-        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Geng Yang</a><br>
+        <a href="http://www.fsie-zju.com/" target="_blank" rel="noopener">Prof. Geng Yang</a><br>
         Zhejiang University<br>
         yanggeng@zju.edu.cn
       </div>
