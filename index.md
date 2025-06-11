@@ -299,6 +299,8 @@
   </tr>
 </table>
 <b>Note: </b>If additional speaker invitations are confirmed, the agenda will be updated accordingly.
+<h3>Venue:</h3>
+<p>Room 101, Hangzhou International Expo Center, Hangzhou, China</p>
 <br>
 <br>
 <img src="assets/images/speakers.png" width="auto" height="auto" alt="speakers"/>
