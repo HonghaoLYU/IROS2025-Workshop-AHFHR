@@ -235,6 +235,9 @@
 
 <p>We will fully utilize the platform and network of the mentioned three IEEE RAS TCs and the IEEE IES TC-II, ensuring participation from a diverse and engaged audience across the various subfields of robotics and healthcare. The TC platform will facilitate cross-disciplinary interaction and increase visibility for the workshop, promoting continued collaboration beyond the event.</p>
 
+<h3>Venue:</h3>
+<p>Room 101, Hangzhou International Expo Center, Hangzhou, China</p>
+
 <h3>Tentative Schedule:</h3>
 <table>
   <tr>
@@ -299,8 +302,7 @@
   </tr>
 </table>
 <b>Note: </b>If additional speaker invitations are confirmed, the agenda will be updated accordingly.
-<h3>Venue:</h3>
-<p>Room 101, Hangzhou International Expo Center, Hangzhou, China</p>
+
 <br>
 <br>
 <img src="assets/images/speakers.png" width="auto" height="auto" alt="speakers"/>
