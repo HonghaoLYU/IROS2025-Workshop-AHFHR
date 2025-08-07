@@ -235,8 +235,38 @@
 
 <p>We will fully utilize the platform and network of the mentioned three IEEE RAS TCs and the IEEE IES TC-II, ensuring participation from a diverse and engaged audience across the various subfields of robotics and healthcare. The TC platform will facilitate cross-disciplinary interaction and increase visibility for the workshop, promoting continued collaboration beyond the event.</p>
 
+<h3>Call for Papers</h3>
+<h4>Content</h4>
+<ul>
+  <li> We invite extended abstract for interactive poster presentations at the IROS <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2025</span> Workshop on Advanced Haptic Sensors and Devices for Healthcare Robots, with a minimum length of <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2</span> pages.</li>
+  <li>The extended abstract must be formatted using the standard IEEE conference template.</li>
+  <li><u>Authors are allowed to use material that has already been publicly published.</u></li>
+</ul>
+
+<h4>Submission Instructions</h4>
+<ul>
+  <li>
+    The extended abstract and the video should be submitted as both attachments and downloadable/streamable links via email to the designated address:
+    <a href="mailto:iros2025-hatpic@outlook.com">iros2025-hatpic@outlook.com</a>.
+  </li>
+  <li> Please include the author’s name and the phrase “IROS2025 Workshop-Haptics” in the email subject line.</li>
+  <li> Please provide a clear and concise description of the attached files in the body of the email.</li>
+</ul>
+<h4>Review and Acceptance</h4>
+<ul>
+  <li> The submitted extended abstracts will be reviewed by the organizing committee.</li>
+  <li> Accepted extended abstracts will be invited for <strong> poster presentations </strong> during the workshop. Outstanding candidates will be selected to give <strong>oral presentations</strong>.</li>
+  <li>This workshop will give awards for “Best Paper” and honorable mentions, as well as “Best Poster” and honorable mentions. Award-winning authors will receive certificates, monetary prizes, or other gifts.</li>
+</ul>
+<h4>Important Dates</h4>
+<ul>
+  <li> <strong>Submission Deadline:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 31 Augest 2025</span>  </li>
+  <li> <strong>Notification of Acceptance:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 5 September 2025</span>  </li>
+</ul>
+
 <h3>Venue:</h3>
-<p>Room 101, Hangzhou International Expo Center, Hangzhou, China</p>
+<li> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> October 20, 2025 </span> (Morning)</li>
+<li> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> Room 101</span>, Hangzhou International Expo Center, Hangzhou, China</li>
 
 <h3>Tentative Schedule:</h3>
 <table>
