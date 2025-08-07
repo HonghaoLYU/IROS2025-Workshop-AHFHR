@@ -265,7 +265,7 @@
 </ul>
 
 <h3>Venue:</h3>
-<li> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> October 20, 2025 </span> (Morning)</li>
+<li> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 20 October, 2025 </span> (Morning)</li>
 <li> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> Room 101</span>, Hangzhou International Expo Center, Hangzhou, China</li>
 
 <h3>Tentative Schedule:</h3>
