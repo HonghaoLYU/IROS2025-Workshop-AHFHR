@@ -239,7 +239,7 @@
 <h4>Content</h4>
 <ul>
   <li> We invite extended abstract for interactive poster presentations at the IROS <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2025</span> Workshop on Advanced Haptic Sensors and Devices for Healthcare Robots, with a minimum length of <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2</span> pages.</li>
-  <li>The extended abstract must be formatted using the standard IEEE conference template.</li>
+  <li>The extended abstract must be formatted using the standard <a href="https://www.ieee.org/conferences/publishing/templates"> IEEE conference template </a>.</li>
   <li><u>Authors are allowed to use material that has already been publicly published.</u></li>
 </ul>
 
