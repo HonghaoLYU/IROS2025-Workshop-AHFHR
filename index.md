@@ -158,32 +158,32 @@
 <h3>Invited speakers</h3>
 <table border="0" style="width: 90%; table-layout: fixed;">
   <tr>
-    <td style="width: 15%; text-align: center; padding: 5px;">
+    <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Won Soo Kim.jpg" alt="Prof. Woo Soo Kim"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 5px;">
+    <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Michael C. Welle.png" alt="Dr. Michael C. Welle"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 5px;">
+    <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Kaichen Xu.jpg" alt="Prof. Kaichen Xu"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 5px;">
+    <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Yongjae Yoo.png" alt="Prof. Yongjae Yoo"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 5px;">
+    <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Xinqin_Liao.jpg" alt="Xinqin Liao"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 5px;">
+    <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Yunzhu_Li.png" alt="Yunzhu Li"/>
       </div>
