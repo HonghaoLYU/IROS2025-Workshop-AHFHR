@@ -156,7 +156,7 @@
 <p>The objective of this workshop is to explore and promote the integration of advanced haptic technologies in healthcare robotics, focusing on enhancing rehabilitation, assistive devices, and patient care. The workshop aims to showcase cutting-edge innovations in haptic feedback systems, emphasizing their applications in robotic rehabilitation platforms and assistive solutions for individuals with disabilities or mobility challenges. By fostering cross-disciplinary collaboration between robotics researchers, healthcare professionals, and engineers, the event will address key challenges in the design and implementation of haptic systems, such as real-time feedback, sensor accuracy, and user-centered development. It will also examine the ethical, regulatory, and societal implications of deploying haptic-enabled healthcare robots, discussing issues like privacy, autonomy, and equity. Lastly, the workshop will provide a platform for future research and innovation, advancing the role of haptic technologies in healthcare and catalyzing growth in this field.</p>
 
 <h3>Invited speakers</h3>
-<table border="0" style="width: 90%; table-layout: fixed;">
+<table border="0" style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
