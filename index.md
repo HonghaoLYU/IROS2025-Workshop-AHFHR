@@ -228,14 +228,14 @@
       <div>
         <a href="https://ese.xmu.edu.cn/info/1072/6024.htm" target="_blank" rel="noopener">Prof. Xinqin Liao</a><br>
          Xiamen University<br>
-        liaoxinqin@xmu.edu.cn
+        liaoxinqin@<br>xmu.edu.cn
       </div>
     </td>
     <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
       <div>
         <a href="https://www.engineering.columbia.edu/faculty-staff/directory/yunzhu-li" target="_blank" rel="noopener">Prof. Yunzhu Li</a><br>
          Columbia University<br>
-        yunzhu.li@columbia.edu
+        yunzhu.li@<br>columbia.edu
       </div>
     </td>
     <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
