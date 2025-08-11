@@ -180,6 +180,16 @@
     </td>
     <td style="width: 15%; text-align: center; padding: 5px;">
       <div class="image-container">
+        <img src="assets/images/Xinqin_Liao.jpg" alt="Xinqin Liao"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Yunzhu_Li.png" alt="Yunzhu Li"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
         <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
       </div>
     </td>
@@ -212,6 +222,20 @@
         <a href="https://milab.hanyang.ac.kr/home" target="_blank" rel="noopener">Prof. Yongjae Yoo</a><br>
         Hanyang University<br>
         yongjaeyoo@hanyang.ac.kr
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
+      <div>
+        <a href="https://ese.xmu.edu.cn/info/1072/6024.htm" target="_blank" rel="noopener">Prof. Xinqin Liao</a><br>
+         Xiamen University<br>
+        liaoxinqin@xmu.edu.cn
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
+      <div>
+        <a href="https://www.engineering.columbia.edu/faculty-staff/directory/yunzhu-li" target="_blank" rel="noopener">Prof. Yunzhu Li</a><br>
+         Columbia University<br>
+        yunzhu.li@columbia.edu
       </div>
     </td>
     <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
