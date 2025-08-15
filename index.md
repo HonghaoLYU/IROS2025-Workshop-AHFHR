@@ -159,16 +159,16 @@
 <h3>Invited speakers</h3>
 <table border="0" style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 14%; text-align: center; padding: 5px;">
+    <!-- <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Won Soo Kim.jpg" alt="Prof. Woo Soo Kim"/>
       </div>
-    </td>
-    <td style="width: 14%; text-align: center; padding: 5px;">
+    </td> -->
+    <!-- <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Michael C. Welle.png" alt="Dr. Michael C. Welle"/>
       </div>
-    </td>
+    </td> -->
     <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Kaichen Xu.jpg" alt="Prof. Kaichen Xu"/>
@@ -189,6 +189,11 @@
         <img src="assets/images/Yunzhu_Li.png" alt="Yunzhu Li"/>
       </div>
     </td>
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets\images\Li Jian.png" alt="Jian Li"/>
+      </div>
+    </td>
     <td style="width: 15%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
@@ -197,7 +202,7 @@
   </tr>
   <!-- 第二行：文本 -->
   <tr>
-    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+    <!-- <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
       <div>
         <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Prof. Woo Soo Kim</a><br>
         Simon Fraser University<br>
@@ -210,7 +215,7 @@
         KTH royal institute of technology<br>
         mwelle@kth.se
       </div>
-    </td>
+    </td> -->
     <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
       <div>
         <a href="https://blog.nus.edu.sg/xukaichen/" target="_blank" rel="noopener">Prof. Kaichen Xu</a><br>
@@ -237,6 +242,13 @@
         <a href="https://www.engineering.columbia.edu/faculty-staff/directory/yunzhu-li" target="_blank" rel="noopener">Prof. Yunzhu Li</a><br>
          Columbia University<br>
         yunzhu.li@<br>columbia.edu
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
+      <div>
+        <a href="https://scholars.cityu.edu.hk/en/persons/jli357/publications/" target="_blank" rel="noopener">Prof. Jian Li</a><br>
+         City University of Hong Kong<br>
+        jian.li@my.cityu.edu.hk
       </div>
     </td>
     <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
