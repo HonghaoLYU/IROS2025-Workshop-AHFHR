@@ -271,7 +271,11 @@
 <h4 style="line-height: 0.2;">Submission Instructions</h4>
 <ul>
   <li>
-    The extended abstract and the video should be submitted as both attachments and downloadable/streamable links via email to the designated address:
+    <strong>Primary Submission Method:</strong> Submit your extended abstract and video through the Microsoft CMT system at:
+    <a href="https://cmt3.research.microsoft.com/AHFHR2025/Submission/Index" target="_blank" rel="noopener">https://cmt3.research.microsoft.com/AHFHR2025/Submission/Index</a>
+  </li>
+  <li>
+    <strong>Alternative Submission Method:</strong> The extended abstract and the video can also be submitted as both attachments and downloadable/streamable links via email to the designated address:
     <a href="mailto:iros2025-hatpic@outlook.com">iros2025-hatpic@outlook.com</a>.
   </li>
   <li> Please include the author’s name and the phrase “IROS2025 Workshop-Haptics” in the email subject line.</li>
@@ -285,8 +289,8 @@
 </ul>
 <h4 style="line-height: 0.2;">Important Dates</h4>
 <ul>
-  <li> <strong>Submission Deadline:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 31 Augest 2025</span>  </li>
-  <li> <strong>Notification of Acceptance:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 5 September 2025</span>  </li>
+  <li> <strong>Submission Deadline:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 10 September 2025</span>  </li>
+  <li> <strong>Notification of Acceptance:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 15 September 2025</span>  </li>
 </ul>
 
 <h3>Venue:</h3>
