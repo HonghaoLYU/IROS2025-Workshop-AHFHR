@@ -70,6 +70,39 @@
 <p>Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.</p>
 <b>Workshop Website: </b><a href="https://fsie-robotics.com/IROS2025-Workshop-AHFHR">https://fsie-robotics.com/IROS2025-Workshop-AHFHR</a>
 
+<h3>Call for Papers</h3>
+<h4 style="line-height: 0.2;">Content</h4>
+<ul>
+  <li> We invite extended abstract for interactive poster presentations at the IROS <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2025</span> Workshop on Advanced Haptic Sensors and Devices for Healthcare Robots, with a minimum length of <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2</span> pages.</li>
+  <li>The extended abstract must be formatted using the standard <a href="https://www.ieee.org/conferences/publishing/templates"> IEEE conference template </a>.</li>
+  <li><u>Authors are allowed to use material that has already been publicly published.</u></li>
+</ul>
+
+<h4 style="line-height: 0.2;">Submission Instructions</h4>
+<ul>
+  <li>
+    <strong>Primary Submission Method:</strong> Submit your extended abstract and video through the Microsoft CMT system at:
+    <a href="https://cmt3.research.microsoft.com/AHFHR2025/Submission/Index" target="_blank" rel="noopener">https://cmt3.research.microsoft.com/AHFHR2025/Submission/Index</a>
+  </li>
+  <li>
+    <strong>Alternative Submission Method:</strong> The extended abstract and the video can also be submitted as both attachments and downloadable/streamable links via email to the designated address:
+    <a href="mailto:iros2025-hatpic@outlook.com">iros2025-hatpic@outlook.com</a>.
+  </li>
+  <li> Please include the author’s name and the phrase “IROS2025 Workshop-Haptics” in the email subject line.</li>
+  <li> Please provide a clear and concise description of the attached files in the body of the email.</li>
+</ul>
+<h4 style="line-height: 0.2;">Review and Acceptance</h4>
+<ul>
+  <li> The submitted extended abstracts will be reviewed by the organizing committee.</li>
+  <li> A select number of submissions will be invited to give <strong> short lightning talks </strong> during the workshop. Other accepted submissions will be accepted for <strong> poster presentations </strong> or live demonstrations.</li>
+  <li>This workshop will give awards for <strong> “Best Paper” </strong> and <strong> “Best Paper Finalist” </strong>, as well as <strong> “Best Poster” </strong> and <strong> “Best Poster Finalist” </strong>. Award-winning authors will receive certificates, monetary prizes, and other gifts.</li>
+</ul>
+<h4 style="line-height: 0.2;">Important Dates</h4>
+<ul>
+  <li> <strong>Submission Deadline:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 10 September 2025</span>  </li>
+  <li> <strong>Notification of Acceptance:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 15 September 2025</span>  </li>
+</ul>
+
 <h3>Organizers</h3>
 <table border="0" style="width: 90%; table-layout: fixed;">
   <tr>
@@ -246,7 +279,7 @@
     </td>
     <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
       <div>
-        <a href="https://scholars.cityu.edu.hk/en/persons/jli357/publications/" target="_blank" rel="noopener">Prof. Jian Li</a><br>
+        <a href="https://scholars.cityu.edu.hk/en/persons/jli357/publications/" target="_blank" rel="noopener">Dr. Jian Li</a><br>
          City University of Hong Kong<br>
         jian.li@my.cityu.edu.hk
       </div>
@@ -272,39 +305,6 @@
 
 <p>We will fully utilize the platform and network of the mentioned three IEEE RAS TCs and the IEEE IES TC-II, ensuring participation from a diverse and engaged audience across the various subfields of robotics and healthcare. The TC platform will facilitate cross-disciplinary interaction and increase visibility for the workshop, promoting continued collaboration beyond the event.</p>
 
-<h3>Call for Papers</h3>
-<h4 style="line-height: 0.2;">Content</h4>
-<ul>
-  <li> We invite extended abstract for interactive poster presentations at the IROS <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2025</span> Workshop on Advanced Haptic Sensors and Devices for Healthcare Robots, with a minimum length of <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2</span> pages.</li>
-  <li>The extended abstract must be formatted using the standard <a href="https://www.ieee.org/conferences/publishing/templates"> IEEE conference template </a>.</li>
-  <li><u>Authors are allowed to use material that has already been publicly published.</u></li>
-</ul>
-
-<h4 style="line-height: 0.2;">Submission Instructions</h4>
-<ul>
-  <li>
-    <strong>Primary Submission Method:</strong> Submit your extended abstract and video through the Microsoft CMT system at:
-    <a href="https://cmt3.research.microsoft.com/AHFHR2025/Submission/Index" target="_blank" rel="noopener">https://cmt3.research.microsoft.com/AHFHR2025/Submission/Index</a>
-  </li>
-  <li>
-    <strong>Alternative Submission Method:</strong> The extended abstract and the video can also be submitted as both attachments and downloadable/streamable links via email to the designated address:
-    <a href="mailto:iros2025-hatpic@outlook.com">iros2025-hatpic@outlook.com</a>.
-  </li>
-  <li> Please include the author’s name and the phrase “IROS2025 Workshop-Haptics” in the email subject line.</li>
-  <li> Please provide a clear and concise description of the attached files in the body of the email.</li>
-</ul>
-<h4 style="line-height: 0.2;">Review and Acceptance</h4>
-<ul>
-  <li> The submitted extended abstracts will be reviewed by the organizing committee.</li>
-  <li> Accepted extended abstracts will be invited for <strong> poster presentations </strong> during the workshop. Outstanding candidates will be selected to give <strong>oral presentations</strong>.</li>
-  <li>This workshop will give awards for “Best Paper” and honorable mentions, as well as “Best Poster” and honorable mentions. Award-winning authors will receive certificates, monetary prizes, or other gifts.</li>
-</ul>
-<h4 style="line-height: 0.2;">Important Dates</h4>
-<ul>
-  <li> <strong>Submission Deadline:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 10 September 2025</span>  </li>
-  <li> <strong>Notification of Acceptance:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 15 September 2025</span>  </li>
-</ul>
-
 <h3>Venue:</h3>
 <li> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 20 October, 2025 </span> (Morning)</li>
 <li> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> Room 101</span>, Hangzhou International Expo Center, Hangzhou, China</li>
@@ -328,12 +328,12 @@
   </tr>
   <tr>
     <td class="time-column">9:00–9:20</td>
-    <td class="talk-column">Prof. Woo Soo Kim: New Frontiers in 3D Structural Sensing for Healthcare Applications (tentative)</td>
+    <td class="talk-column">Prof. Xinqin Liao: Sequential Design and Functional Integration of Flexible Tactile Sensors</td>
     <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
   </tr>
   <tr>
     <td class="time-column">9:20–9:40</td>
-    <td class="talk-column">Dr. Michael C. Welle: Enabling Robot Manipulation of Soft and Rigid Objects with Vision-based Tactile Sensors (tentative)</td>
+    <td class="talk-column">Prof. Yunzhu Li: Enabling Robot Manipulation of Soft and Rigid Objects with Vision-based Tactile Sensors</td>
     <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
   </tr>
   <tr>
