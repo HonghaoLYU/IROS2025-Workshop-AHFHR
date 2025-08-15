@@ -94,7 +94,7 @@
 <h4 style="line-height: 0.2;">Review and Acceptance</h4>
 <ul>
   <li> The submitted extended abstracts will be reviewed by the organizing committee.</li>
-  <li> A select number of submissions will be invited to give <strong> short lightning talks </strong> during the workshop. Other accepted submissions will be accepted for <strong> poster presentations </strong> or live demonstrations.</li>
+  <li> A select number of submissions will be invited to give short lightning talks during the workshop. Other accepted submissions will be accepted for <strong> poster presentations </strong> or live demonstrations.</li>
   <li>This workshop will give awards for <strong> “Best Paper” </strong> and <strong> “Best Paper Finalist” </strong>, as well as <strong> “Best Poster” </strong> and <strong> “Best Poster Finalist” </strong>. Award-winning authors will receive certificates, monetary prizes, and other gifts.</li>
 </ul>
 <h4 style="line-height: 0.2;">Important Dates</h4>
@@ -384,3 +384,4 @@
 
 </body>
 </html>
+
