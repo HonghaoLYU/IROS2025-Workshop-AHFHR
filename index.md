@@ -353,7 +353,7 @@
   </tr>
   <tr>
     <td class="time-column">11:00–11:20</td>
-    <td class="talk-column">Prof. Yongjae Yoo: Dual-Frequency Superimposed Vibration for Robot Haptic Ability (tentative)</td>
+    <td class="talk-column">Prof. Yongjae Yoo: Developing AI-based Control and Interaction Techniques for a 4DoF Upper-Limb Rehabilitation Robots</td>
     <td class="comments-column">Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
   </tr>
   <tr>
@@ -384,4 +384,5 @@
 
 </body>
 </html>
+
 
