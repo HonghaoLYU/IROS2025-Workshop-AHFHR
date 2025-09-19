@@ -333,7 +333,7 @@
   </tr>
   <tr>
     <td class="time-column">9:20–9:40</td>
-    <td class="talk-column">Prof. Yunzhu Li: Enabling Robot Manipulation of Soft and Rigid Objects with Vision-based Tactile Sensors</td>
+    <td class="talk-column">Prof. Yunzhu Li: Scalable Tactile Sensing and Learning for Contact-Rich Robotic Manipulation</td>
     <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
   </tr>
   <tr>
@@ -384,5 +384,6 @@
 
 </body>
 </html>
+
 
 
