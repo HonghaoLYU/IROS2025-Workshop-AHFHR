@@ -97,6 +97,12 @@
   <li> A select number of submissions will be invited to give short lightning talks during the workshop. Other accepted submissions will be accepted for <strong> poster presentations </strong> or live demonstrations.</li>
   <li>This workshop will give awards for <strong> “Best Paper” </strong> and <strong> “Best Paper Finalist” </strong>, as well as <strong> “Best Poster” </strong> and <strong> “Best Poster Finalist” </strong>. Award-winning authors will receive certificates, monetary prizes, and other gifts.</li>
 </ul>
+
+<h4 style="line-height: 0.2;">Poster prepartion</h4>
+<ul>
+  <li>Download our poster template: <a href="/assets/media/zip/IROS2025 AHFHR-Poster template.pptx" download>Poster Template.pptx</a></li>
+</ul>
+
 <h4 style="line-height: 0.2;">Important Dates</h4>
 <ul>
   <li> <strong>Submission Deadline:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 10 September 2025</span>  </li>
@@ -384,6 +390,7 @@
 
 </body>
 </html>
+
 
 
 
