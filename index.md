@@ -41,17 +41,17 @@
       width: 10%;
     }
     .invite-column {
-      width: 5%;
+      width: 10%;
     }
     .talk-column {
-      width: 20%;
+      width: 15%;
     }
     .comments-column {
-      width: 25%;
+      width: 15%;
     }
     .abstract-column {
-      width: 40%;
-      font-size: 12px;
+      width: 50%;
+      font-size: 14px;
       text-align: justify;
       line-height: 0.9;
     }
@@ -374,7 +374,9 @@
   <tr>
     <td class="time-column">9:40-10:00</td>
     <td class="invite-column"> Invited Talks</td>
-    <td class="talk-column">Lightning Talks</td>
+    <td class="talk-column">Dr. Jian Li: Wearable Transparent Tactile Sensors to Bridge Humans and Machines</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
+    <td class="abstract-column">Wearable tactile sensors are pivotal for bridging the physical and digital worlds, enabling intuitive and seamless interaction in next-generation human-machine interfaces (HMIs). The integration of transparency into these devices represents a breakthrough, allowing them to be imperceptibly embedded on skin, displays, and AR/VR optics without impairing visual experience or aesthetics. This unique combination of haptic sensing and optical transparency brings new possibilities in augmented reality, discreet health monitoring, and immersive wearable technology. In this talk, I will present our recent works on material innovation, sensing mechanisms, and device designs that achieve high transparency and spatial resolution. I will first introduce a novel sensor architecture engineered to minimize both electrical and mechanical crosstalk in high-density pressure sensor arrays, ensuring high-fidelity signal acquisition. Then, I will demonstrate how this platform can be extended to enable noncontact, active tracking of spatial position variations. In the last, I will highlight their emerging applications in wearable, contactless interactive systems that enable closed-loop human-machine interactions by providing real-time tactile feedback and control.</td>
 
   </tr>
   <tr>
