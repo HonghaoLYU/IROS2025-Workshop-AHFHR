@@ -397,7 +397,17 @@
     <!-- <td class="invite-column"> Invited Talks</td> -->
     <td class="talk-column">Dr. Jian Li: Wearable Transparent Tactile Sensors to Bridge Humans and Machines</td>
     <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
-    <td class="abstract-column">Wearable tactile sensors are pivotal for bridging the physical and digital worlds, enabling intuitive and seamless interaction in next-generation human-machine interfaces (HMIs). The integration of transparency into these devices represents a breakthrough, allowing them to be imperceptibly embedded on skin, displays, and AR/VR optics without impairing visual experience or aesthetics. This unique combination of haptic sensing and optical transparency brings new possibilities in augmented reality, discreet health monitoring, and immersive wearable technology. In this talk, I will present our recent works on material innovation, sensing mechanisms, and device designs that achieve high transparency and spatial resolution. I will first introduce a novel sensor architecture engineered to minimize both electrical and mechanical crosstalk in high-density pressure sensor arrays, ensuring high-fidelity signal acquisition. Then, I will demonstrate how this platform can be extended to enable noncontact, active tracking of spatial position variations. In the last, I will highlight their emerging applications in wearable, contactless interactive systems that enable closed-loop human-machine interactions by providing real-time tactile feedback and control.</td>
+    <td class="abstract-column">
+      <div class="abstract">
+        <span class="short-text">
+          Wearable tactile sensors are pivotal for bridging the physical and digital worlds...
+        </span>
+        <span class="full-text" style="display: none;">
+          Wearable tactile sensors are pivotal for bridging the physical and digital worlds, enabling intuitive and seamless interaction in next-generation human-machine interfaces (HMIs). The integration of transparency into these devices represents a breakthrough, allowing them to be imperceptibly embedded on skin, displays, and AR/VR optics without impairing visual experience or aesthetics. This unique combination of haptic sensing and optical transparency brings new possibilities in augmented reality, discreet health monitoring, and immersive wearable technology. In this talk, I will present our recent works on material innovation, sensing mechanisms, and device designs that achieve high transparency and spatial resolution. I will first introduce a novel sensor architecture engineered to minimize both electrical and mechanical crosstalk in high-density pressure sensor arrays, ensuring high-fidelity signal acquisition. Then, I will demonstrate how this platform can be extended to enable noncontact, active tracking of spatial position variations. In the last, I will highlight their emerging applications in wearable, contactless interactive systems that enable closed-loop human-machine interactions by providing real-time tactile feedback and control.
+        </span>
+        <button class="toggle-btn" onclick="toggleAbstract(this)">Show more</button>
+      </div>
+    </td>
   </tr>
   <tr>
     <td class="time-column">10:00-10:20</td>
@@ -456,6 +466,8 @@
     <td class="comments-column"> </td>
   </tr>
 </table>
+<script src="/assets/js/toggle.js"></script>
+
 <b>Note: </b>If additional speaker invitations are confirmed, the agenda will be updated accordingly.
 
 <br>
