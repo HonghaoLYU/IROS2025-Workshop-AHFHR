@@ -100,7 +100,7 @@
 
 <h4 style="line-height: 0.2;">Poster prepartion</h4>
 <ul>
-  <li>Download our poster template: <a href="/assets/media/zip/IROS2025 AHFHR-Poster template.pptx" download>Poster Template.pptx</a></li>
+  <li>Download our poster template: <a href="assets/media/zip/IROS2025 AHFHR-Poster template.pptx" download>Poster Template.pptx</a></li>
 </ul>
 
 <h4 style="line-height: 0.2;">Important Dates</h4>
@@ -390,6 +390,7 @@
 
 </body>
 </html>
+
 
 
 
