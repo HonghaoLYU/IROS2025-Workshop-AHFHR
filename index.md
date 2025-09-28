@@ -341,7 +341,7 @@
     <th class="invite-column"> </th>
     <th class="talk-column">Talk</th>
     <th class="comments-column">Comments</th>
-    <th class="abstract-column">Talk Abstract</th>
+    <th class="comments-column">Talk Abstract</th>
   </tr>
   <tr>
     <td class="time-column">8:00–8:50</td>
