@@ -49,9 +49,11 @@
     .comments-column {
       width: 25%;
     }
-    .astract-column {
+    .abstract-column {
       width: 40%;
-      font-size: 2px;
+      font-size: 12px;
+      text-align: justify;
+      line-height: 0.9;
     }
     a {
       text-decoration: none;
@@ -353,21 +355,27 @@
     <td class="invite-column">  </td>
     <td class="talk-column">Welcome and Introduction</td>
     <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
-    <td class="abstract-column"> Achieving robust contact-rich manipulation requires more than accurate control — it depends on the ability to sense and interpret subtle physical interactions at scale. In this talk, I will present our work on scalable tactile sensing and learning frameworks that bring robots closer to human-like dexterity. We begin by uncovering the principles of human grasping with a scalable tactile glove built from dense tactile arrays, revealing how tactile signals guide object recognition and force regulation. Insights from the design and use of this glove inform the development of new dense, flexible, and low-cost tactile arrays that, when fused with visual perception, enable fine in-hand manipulation and safe interaction with fragile objects. We then scale up through both simulation and large-scale real-world data collection: in simulation, we use high-fidelity tactile models to refine visuo-tactile policies via reinforcement learning and achieve reliable sim-to-real transfer in bimanual assembly tasks; in the real world, we deploy a portable visuo-tactile gripper to capture diverse demonstrations “in the wild,” supporting robust representation learning and generalizable skill acquisition. Together, these efforts chart a path toward scalable, touch-enabled robots that tightly integrate sensing, control, and learning to master complex physical interactions.</td>
+    <td class="abstract-column"> </td>
   </tr>
   <tr>
     <td class="time-column">9:00–9:20</td>
     <td class="invite-column"> Invited Talks </td>
     <td class="talk-column">Prof. Xinqin Liao: Sequential Design and Functional Integration of Flexible Tactile Sensors</td>
     <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
-    <td class="abstract-column">Talk Abstract</td>
+    <td class="abstract-column">Achieving robust contact-rich manipulation requires more than accurate control — it depends on the ability to sense and interpret subtle physical interactions at scale. In this talk, I will present our work on scalable tactile sensing and learning frameworks that bring robots closer to human-like dexterity. We begin by uncovering the principles of human grasping with a scalable tactile glove built from dense tactile arrays, revealing how tactile signals guide object recognition and force regulation. Insights from the design and use of this glove inform the development of new dense, flexible, and low-cost tactile arrays that, when fused with visual perception, enable fine in-hand manipulation and safe interaction with fragile objects. We then scale up through both simulation and large-scale real-world data collection: in simulation, we use high-fidelity tactile models to refine visuo-tactile policies via reinforcement learning and achieve reliable sim-to-real transfer in bimanual assembly tasks; in the real world, we deploy a portable visuo-tactile gripper to capture diverse demonstrations “in the wild,” supporting robust representation learning and generalizable skill acquisition. Together, these efforts chart a path toward scalable, touch-enabled robots that tightly integrate sensing, control, and learning to master complex physical interactions.</td>
   </tr>
   <tr>
     <td class="time-column">9:20–9:40</td>
     <td class="invite-column">Invited Talks </td>
     <td class="talk-column">Prof. Yunzhu Li: Scalable Tactile Sensing and Learning for Contact-Rich Robotic Manipulation</td>
     <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
-    <td class="abstract-column">Talk Abstract</td>
+    <td class="abstract-column">TBD</td>
+  </tr>
+  <tr>
+    <td class="time-column">9:40-10:00</td>
+    <td class="invite-column"> Invited Talks</td>
+    <td class="talk-column">Lightning Talks</td>
+
   </tr>
   <tr>
     <td class="time-column">9:40–10:20</td>
