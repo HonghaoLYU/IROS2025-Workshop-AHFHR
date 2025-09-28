@@ -51,9 +51,9 @@
     }
     .abstract-column {
       width: 50%;
-      font-size: 14px;
+      font-size: 16px;
       text-align: justify;
-      line-height: 0.9;
+      line-height: 1.2;
     }
     a {
       text-decoration: none;
@@ -412,7 +412,7 @@
     <td class="invite-column"> </td>
     <td class="talk-column">Prof. Geng Yang: A Deep Learning-Enhanced Super-Resolution Tactile Sensor (tentative)</td>
     <td class="comments-column">Should any additional speaker invitations be confirmed, the agenda will be updated accordingly.</td>
-    <td class="abstract-column">Talk Abstract</td>
+    <td class="comments-column">Talk Abstract</td>
   </tr>
   <tr>
     <td class="time-column">11:40–12:10</td>
