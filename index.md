@@ -44,13 +44,13 @@
       width: 10%;
     }
     .talk-column {
-      width: 15%;
+      width: 25%;
     }
     .comments-column {
-      width: 15%;
+      width: 25%;
     }
     .abstract-column {
-      width: 50%;
+      width: 30%;
       font-size: 16px;
       text-align: justify;
       line-height: 1.2;
