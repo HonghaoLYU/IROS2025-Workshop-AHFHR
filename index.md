@@ -38,7 +38,7 @@
     }
     /* 设置列宽 */
     .time-column {
-      width: 11%;
+      width: 12%;
     }
     .invite-column {
       width: 10%;
@@ -50,7 +50,7 @@
       width: 19%;
     }
     .abstract-column {
-      width: 35%;
+      width: 34%;
       font-size: 16px;
       text-align: justify;
       line-height: 1.2;
