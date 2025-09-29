@@ -460,21 +460,21 @@
     <td class="invite-column" rowspan="3"> Invitated Talk</td>
     <td class="talk-column">Prof. Kaichen Xu: Multifunctional Flexible Sensors for Healthcare Robots (tentative)</td>
     <td class="comments-column">Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
-    <td class="abstract-column">TBD</td>
+    <td class="abstract-column" rowspan="3">TBD</td>
   </tr>
   <tr>
     <td class="time-column">11:00–11:20</td>
     <!-- <td class="invite-column">Invitated Talk </td> -->
     <td class="talk-column">Prof. Yongjae Yoo: Developing AI-based Control and Interaction Techniques for a 4DoF Upper-Limb Rehabilitation Robots</td>
     <td class="comments-column">Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
-    <td class="abstract-column"> </td>
+    <!-- <td class="abstract-column"> </td> -->
   </tr>
   <tr>
     <td class="time-column">11:20–11:40</td>
     <!-- <td class="invite-column"> </td> -->
     <td class="talk-column">Prof. Geng Yang: A Deep Learning-Enhanced Super-Resolution Tactile Sensor (tentative)</td>
     <td class="comments-column">Should any additional speaker invitations be confirmed, the agenda will be updated accordingly.</td>
-    <td class="comments-column"> </td>
+    <!-- <td class="comments-column"> </td> -->
   </tr>
   <tr>
     <td class="time-column">11:40–12:10</td>
