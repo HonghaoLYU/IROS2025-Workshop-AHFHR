@@ -38,19 +38,19 @@
     }
     /* 设置列宽 */
     .time-column {
-      width: 10%;
+      width: 15%;
     }
     .invite-column {
-      width: 10%;
+      width: 8%;
     }
     .talk-column {
       width: 25%;
     }
     .comments-column {
-      width: 25%;
+      width: 15%;
     }
     .abstract-column {
-      width: 30%;
+      width: 37%;
       font-size: 16px;
       text-align: justify;
       line-height: 1.2;

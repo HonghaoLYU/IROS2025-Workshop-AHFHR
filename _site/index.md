@@ -1,0 +1,534 @@
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>IROS2025 Workshop</title>
+  <style>
+    p {
+      text-indent: 2em; /* 设置首行缩进 */
+      text-align: justify; /*两端对齐*/
+    }
+    table {
+      width: 1200px;
+      border-collapse: collapse;
+      border: none;
+    }
+    td {
+      background-color: #FFFFFF;
+      width: 300px;
+      text-align: center;
+      vertical-align: middle;
+      padding: 5px;
+      border: 1px solid #ddd;
+      word-break: break-word;
+      white-space: normal;
+    }
+    td {
+      background-color: #FFFFFF;
+      width: 300px;
+      text-align: center;
+      vertical-align: middle;
+      padding: 5px;
+      border: 1px solid #ddd;
+      word-break: break-word;
+      white-space: normal;
+    }
+    th {
+      background-color: #f2f2f2;
+      padding: 10px;
+    }
+    /* 设置列宽 */
+    .time-column {
+      width: 10%;
+    }
+    .invite-column {
+      width: 10%;
+    }
+    .talk-column {
+      width: 25%;
+    }
+    .comments-column {
+      width: 20%;
+    }
+    .abstract-column {
+      width: 35%;
+      font-size: 16px;
+      text-align: justify;
+      line-height: 1.2;
+    }
+    /* Collapsible abstracts */
+    .abstract-column .abstract-collapsible { display: block; }
+    .abstract-column .abstract-content {
+      line-height: 1.6;
+      overflow: hidden;
+      max-height: none;               /* 初始不限制，JS 会设置 */
+      transition: max-height 240ms ease;
+    }
+    .abstract-column .abstract-toggle {
+      margin-top: 6px;
+      padding: 0;
+      background: none;
+      border: none;
+      color: #0366d6;
+      cursor: pointer;
+      font: inherit;
+    }
+    .abstract-column .abstract-toggle:focus {
+      outline: 2px solid #0366d6;
+      outline-offset: 2px;
+    }
+    .toggle-btn {
+      background: none;
+      border: none;
+      color: #007BFF;
+      cursor: pointer;
+      padding: 0;
+      font-size: 14px;
+    }
+    .toggle-btn:hover {
+      text-decoration: underline;
+    }
+    .details {
+      display: inline;
+    }
+    .details input {
+      display: none;
+    }
+    .details .full-text {
+      display: none;
+    }
+    .details input:checked ~ .short-text {
+      display: none;
+    }
+    .details input:checked ~ .full-text {
+      display: inline;
+    }
+    .details label {
+      color: #007BFF;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    .details label:hover {
+      text-decoration: underline;
+    }
+    a {
+      text-decoration: none;
+    }
+    .image-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 275px; /* 限制容器高度 */
+    }
+    .image-container img {
+      width: 191px; /* 固定宽度 */
+      height: 251px; /* 固定高度 */
+      object-fit: cover; /* 确保图片裁剪填满容器 */
+    }
+    .image-container div {
+      font-size: 14px; /* 减小字体大小 */
+      line-height: 1.2; /* 行高调整，避免文字重叠 */
+      margin-top: 8px;
+    }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+  </style>
+</head>
+<body>
+
+<h1>IROS2025 Workshop</h1>
+<h2>Advanced Haptic Sensors and Devices for Healthcare Robots</h2>
+
+<p>Tips: You can get a better experience of this site in <a href="https://www.google.com/chrome">Google chrome</a> browser.</p>
+<p>The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</p>
+
+<h3>Abstract and Website</h3>
+<p>Advanced haptic technologies in healthcare robotics are redefining medical practices, enhancing the precision of nursing tasks, improving rehabilitation processes, and elevating patient care experiences. This workshop explores the cutting-edge advancements, challenges, and future directions in haptic-enabled robotics for healthcare applications. It aims to evaluate the role of haptic technologies in revolutionizing tactile feedback, skill transfer, and human-robot interaction within clinical and caregiving environments. The workshop will delve into multidisciplinary discussions on the transformative potential of haptic technologies in healthcare, showcasing innovations such as haptic devices for medical diagnosis, robotic systems for physical rehabilitation, tactile training platforms for caregiver skill acquisition, and haptic-enabled robots providing nuanced sensory feedback for improved healthcare outcomes. Key themes include the development and integration of advanced haptic devices, wearable haptic interfaces, sensor fusion technologies, real-time haptic feedback systems, and their application to critical healthcare scenarios. We will emphasize the importance of human-centered design, user studies, and evaluations to ensure seamless adoption in robotic nursing care environments. Moreover, the workshop will address ethical considerations, regulatory challenges, and technical barriers while highlighting opportunities for collaboration between academia, healthcare professionals, and industry stakeholders. By featuring expert presentations, interactive panel discussions, live demonstrations, and networking sessions, the workshop seeks to catalyze innovation and chart a roadmap for the future of haptic technologies in healthcare robotics.</p>
+<b>Workshop Website: </b><a href="https://fsie-robotics.com/IROS2025-Workshop-AHFHR">https://fsie-robotics.com/IROS2025-Workshop-AHFHR</a>
+
+<h3>Call for Papers</h3>
+<h4 style="line-height: 0.2;">Content</h4>
+<ul>
+  <li> We invite extended abstract for interactive poster presentations at the IROS <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2025</span> Workshop on Advanced Haptic Sensors and Devices for Healthcare Robots, with a minimum length of <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 2</span> pages.</li>
+  <li>The extended abstract must be formatted using the standard <a href="https://www.ieee.org/conferences/publishing/templates"> IEEE conference template </a>.</li>
+  <li><u>Authors are allowed to use material that has already been publicly published.</u></li>
+</ul>
+
+<h4 style="line-height: 0.2;">Submission Instructions</h4>
+<ul>
+  <li>
+    <strong>Primary Submission Method:</strong> Submit your extended abstract and video through the Microsoft CMT system at:
+    <a href="https://cmt3.research.microsoft.com/AHFHR2025/Submission/Index" target="_blank" rel="noopener">https://cmt3.research.microsoft.com/AHFHR2025/Submission/Index</a>
+  </li>
+  <li>
+    <strong>Alternative Submission Method:</strong> The extended abstract and the video can also be submitted as both attachments and downloadable/streamable links via email to the designated address:
+    <a href="mailto:iros2025-hatpic@outlook.com">iros2025-hatpic@outlook.com</a>.
+  </li>
+  <li> Please include the author’s name and the phrase “IROS2025 Workshop-Haptics” in the email subject line.</li>
+  <li> Please provide a clear and concise description of the attached files in the body of the email.</li>
+</ul>
+<h4 style="line-height: 0.2;">Review and Acceptance</h4>
+<ul>
+  <li> The submitted extended abstracts will be reviewed by the organizing committee.</li>
+  <li> A select number of submissions will be invited to give short lightning talks during the workshop. Other accepted submissions will be accepted for <strong> poster presentations </strong> or live demonstrations.</li>
+  <li>This workshop will give awards for <strong> “Best Paper” </strong> and <strong> “Best Paper Finalist” </strong>, as well as <strong> “Best Poster” </strong> and <strong> “Best Poster Finalist” </strong>. Award-winning authors will receive certificates, monetary prizes, and other gifts.</li>
+</ul>
+
+<h4 style="line-height: 0.2;">Poster prepartion</h4>
+<ul>
+  <li>Download our poster template: <a href="assets/media/zip/IROS2025 AHFHR-Poster template.pptx" download>Poster Template.pptx</a></li>
+</ul>
+
+<h4 style="line-height: 0.2;">Important Dates</h4>
+<ul>
+  <li> <strong>Submission Deadline:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 10 September 2025</span>  </li>
+  <li> <strong>Notification of Acceptance:</strong> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 15 September 2025</span>  </li>
+</ul>
+
+<h3>Organizers</h3>
+<table border="0" style="width: 90%; table-layout: fixed;">
+  <tr>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Lyu Honghao.jpg" alt="Honghao Lyu"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Amy Kyungwon Han.jpg" alt="Amy Kyungwon Han"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Fernando Bello.png" alt="Fernando Bello"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Gaoyang Pang.jpg" alt="Gaoyang Pang"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Yong-Lae Park.png" alt="Yong-Lae Park"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
+      </div>
+    </td>
+  </tr>
+  <!-- 第二行：文本 -->
+  <tr>
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://fsie-robotics.com" target="_blank" rel="noopener">Honghao Lyu</a><br>
+        Zhejiang University<br>
+        lvhonghao@zju.edu.cn
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://hero.snu.ac.kr" target="_blank" rel="noopener">Amy Kyungwon Han</a><br>
+        Seoul National University<br>
+        amyhan@snu.ac.kr
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://profiles.imperial.ac.uk/f.bello" target="_blank" rel="noopener">Fernando Bello</a><br>
+        Imperial College London<br>
+        f.bello@imperial.ac.uk
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://sites.google.com/view/gaoyang" target="_blank" rel="noopener">Gaoyang Pang</a><br>
+        Sydney University<br>
+        gaoyang.pang@sydney.edu.au
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://softrobotics.snu.ac.kr/people.php" target="_blank" rel="noopener">Yong-Lae Park</a><br>
+        Seoul National University<br>
+        ylpark@snu.ac.kr
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="http://www.fsie-zju.com/" target="_blank" rel="noopener">Geng Yang</a><br>
+        Zhejiang University<br>
+        yanggeng@zju.edu.cn
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h3>Content of the workshop and expected impact</h3>
+
+<h4>Objectives of the Workshop</h4>
+<p>The objective of this workshop is to explore and promote the integration of advanced haptic technologies in healthcare robotics, focusing on enhancing rehabilitation, assistive devices, and patient care. The workshop aims to showcase cutting-edge innovations in haptic feedback systems, emphasizing their applications in robotic rehabilitation platforms and assistive solutions for individuals with disabilities or mobility challenges. By fostering cross-disciplinary collaboration between robotics researchers, healthcare professionals, and engineers, the event will address key challenges in the design and implementation of haptic systems, such as real-time feedback, sensor accuracy, and user-centered development. It will also examine the ethical, regulatory, and societal implications of deploying haptic-enabled healthcare robots, discussing issues like privacy, autonomy, and equity. Lastly, the workshop will provide a platform for future research and innovation, advancing the role of haptic technologies in healthcare and catalyzing growth in this field.</p>
+
+<h3>Invited speakers</h3>
+<table border="0" style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Won Soo Kim.jpg" alt="Prof. Woo Soo Kim"/>
+      </div>
+    </td> -->
+    <!-- <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Michael C. Welle.png" alt="Dr. Michael C. Welle"/>
+      </div>
+    </td> -->
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Kaichen Xu.jpg" alt="Prof. Kaichen Xu"/>
+      </div>
+    </td>
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Yongjae Yoo.png" alt="Prof. Yongjae Yoo"/>
+      </div>
+    </td>
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Xinqin_Liao.jpg" alt="Xinqin Liao"/>
+      </div>
+    </td>
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Yunzhu_Li.png" alt="Yunzhu Li"/>
+      </div>
+    </td>
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets\images\Li Jian.png" alt="Jian Li"/>
+      </div>
+    </td>
+    <td style="width: 15%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
+      </div>
+    </td>
+  </tr>
+  <!-- 第二行：文本 -->
+  <tr>
+    <!-- <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://www.sfu.ca/additive-manufacturing-lab.html" target="_blank" rel="noopener">Prof. Woo Soo Kim</a><br>
+        Simon Fraser University<br>
+        woosook@sfu.ca
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://people.kth.se/~mwelle/" target="_blank" rel="noopener">Dr. Michael C. Welle</a><br>
+        KTH royal institute of technology<br>
+        mwelle@kth.se
+      </div>
+    </td> -->
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://blog.nus.edu.sg/xukaichen/" target="_blank" rel="noopener">Prof. Kaichen Xu</a><br>
+        Zhejiang University<br>
+        xukc@zju.edu.cn
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://milab.hanyang.ac.kr/home" target="_blank" rel="noopener">Prof. Yongjae Yoo</a><br>
+        Hanyang University<br>
+        yongjaeyoo@hanyang.ac.kr
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
+      <div>
+        <a href="https://ese.xmu.edu.cn/info/1072/6024.htm" target="_blank" rel="noopener">Prof. Xinqin Liao</a><br>
+         Xiamen University<br>
+        liaoxinqin@<br>xmu.edu.cn
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
+      <div>
+        <a href="https://www.engineering.columbia.edu/faculty-staff/directory/yunzhu-li" target="_blank" rel="noopener">Prof. Yunzhu Li</a><br>
+         Columbia University<br>
+        yunzhu.li@<br>columbia.edu
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
+      <div>
+        <a href="https://scholars.cityu.edu.hk/en/persons/jli357/publications/" target="_blank" rel="noopener">Dr. Jian Li</a><br>
+         City University of Hong Kong<br>
+        jian.li@my.cityu.edu.hk
+      </div>
+    </td>
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="http://www.fsie-zju.com/" target="_blank" rel="noopener">Prof. Geng Yang</a><br>
+        Zhejiang University<br>
+        yanggeng@zju.edu.cn
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h3>Structure of the workshop</h3>
+
+<p>The workshop will be structured to encourage open-ended discussions and active participation, especially between established experts and early-career researchers. The structure includes:</p>
+
+<p style="text-indent: 2em;"><b>1) Invited Talks:</b> Potential five invited speakers will deliver in-depth presentations on key topics related to haptic technologies for healthcare robotics, setting the stage for broader discussions.</p>
+<p style="text-indent: 2em;"><b>2) Participant Presentations:</b> Other participants will showcase their research through presentations, fostering engagement and enabling participants to exchange ideas directly with the speakers and the audience.</p>
+<p style="text-indent: 2em;"><b>3) Poster Session:</b> A dedicated time for early-career researchers, including students and postdoctoral researchers, to present their work, offering an interactive environment for detailed discussions with attendees and experts.</p>
+<p style="text-indent: 2em;"><b>4) Interactive Session:</b> This session will facilitate group discussions and brainstorming on the challenges and future directions in the field, encouraging participation from all attendees. The organizers will prepare several questions on key challenges in the field to facilitate discussion.</p>
+
+<p>We will fully utilize the platform and network of the mentioned three IEEE RAS TCs and the IEEE IES TC-II, ensuring participation from a diverse and engaged audience across the various subfields of robotics and healthcare. The TC platform will facilitate cross-disciplinary interaction and increase visibility for the workshop, promoting continued collaboration beyond the event.</p>
+
+<h3>Venue:</h3>
+<li> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> 20 October, 2025 </span> (Morning)</li>
+<li> <span style="font-family: 'Georgia', cursive; font-size: 1.1em;"> Room 101</span>, Hangzhou International Expo Center, Hangzhou, China</li>
+
+<h3>Tentative Schedule:</h3>
+<table>
+  <tr>
+    <th class="time-column">Time</th>
+    <th class="invite-column" colspan="2" >Talk </th>
+    <!-- <th class="talk-column">Talk</th> -->
+    <th class="comments-column">Comments</th>
+    <th class="comments-column">Talk Abstract</th>
+  </tr>
+  <tr>
+    <td class="time-column">8:00–8:50</td>
+    <!-- <td class="invite-column"> </td> -->
+    <td class="talk-column" colspan="2">Registration</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu</td>
+    <td class="abstract-column"> </td>
+  </tr>
+  <tr>
+    <td class="time-column">8:50–9:00</td>
+    <!-- <td class="invite-column">  </td> -->
+    <td class="talk-column" colspan ="2">Welcome and Introduction</td>
+    <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
+    <td class="abstract-column"> </td>
+  </tr>
+  <tr>
+    <td class="time-column">9:00–9:20</td>
+    <td class="invite-column" rowspan="3">Invited Talks</td>
+    <td class="talk-column">Prof. Xinqin Liao: Sequential Design and Functional Integration of Flexible Tactile Sensors</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
+    <!-- <td class="abstract-column">
+      <div class="abstract">
+        <span class="short-text">
+          Achieving robust contact-rich manipulation requires more than accurate control...
+        </span>
+        <span class="full-text" style="display: none;">
+          Achieving robust contact-rich manipulation requires more than accurate control — it depends on the ability to sense and interpret subtle physical interactions at scale. In this talk, I will present our work on scalable tactile sensing and learning frameworks that bring robots closer to human-like dexterity. We begin by uncovering the principles of human grasping with a scalable tactile glove built from dense tactile arrays, revealing how tactile signals guide object recognition and force regulation. Insights from the design and use of this glove inform the development of new dense, flexible, and low-cost tactile arrays that, when fused with visual perception, enable fine in-hand manipulation and safe interaction with fragile objects. We then scale up through both simulation and large-scale real-world data collection: in simulation, we use high-fidelity tactile models to refine visuo-tactile policies via reinforcement learning and achieve reliable sim-to-real transfer in bimanual assembly tasks; in the real world, we deploy a portable visuo-tactile gripper to capture diverse demonstrations “in the wild,” supporting robust representation learning and generalizable skill acquisition. Together, these efforts chart a path toward scalable, touch-enabled robots that tightly integrate sensing, control, and learning to master complex physical interactions.
+        </span>
+        <button class="toggle-btn" onclick="toggleAbstract(this)">Show more</button>
+      </div>
+    </td> -->
+    <td class="abstract-column">Achieving robust contact-rich manipulation requires more than accurate control — it depends on the ability to sense and interpret subtle physical interactions at scale. In this talk, I will present our work on scalable tactile sensing and learning frameworks that bring robots closer to human-like dexterity. We begin by uncovering the principles of human grasping with a scalable tactile glove built from dense tactile arrays, revealing how tactile signals guide object recognition and force regulation. Insights from the design and use of this glove inform the development of new dense, flexible, and low-cost tactile arrays that, when fused with visual perception, enable fine in-hand manipulation and safe interaction with fragile objects. We then scale up through both simulation and large-scale real-world data collection: in simulation, we use high-fidelity tactile models to refine visuo-tactile policies via reinforcement learning and achieve reliable sim-to-real transfer in bimanual assembly tasks; in the real world, we deploy a portable visuo-tactile gripper to capture diverse demonstrations “in the wild,” supporting robust representation learning and generalizable skill acquisition. Together, these efforts chart a path toward scalable, touch-enabled robots that tightly integrate sensing, control, and learning to master complex physical interactions.</td>
+  </tr>
+  <tr>
+    <td class="time-column">9:20–9:40</td>
+    <!-- <td class="invite-column">Invited Talks </td> -->
+    <td class="talk-column">Prof. Yunzhu Li: Scalable Tactile Sensing and Learning for Contact-Rich Robotic Manipulation</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
+    <td class="abstract-column">TBD</td>
+  </tr>
+  <tr>
+    <td class="time-column">9:40-10:00</td>
+    <!-- <td class="invite-column"> Invited Talks</td> -->
+    <td class="talk-column">Dr. Jian Li: Wearable Transparent Tactile Sensors to Bridge Humans and Machines</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
+    <!-- <td class="abstract-column">
+      <div class="abstract">
+        <span class="short-text">
+          Wearable tactile sensors are pivotal for bridging the physical and digital worlds...
+        </span>
+        <span class="full-text" style="display: none;">
+          Wearable tactile sensors are pivotal for bridging the physical and digital worlds, enabling intuitive and seamless interaction in next-generation human-machine interfaces (HMIs). The integration of transparency into these devices represents a breakthrough, allowing them to be imperceptibly embedded on skin, displays, and AR/VR optics without impairing visual experience or aesthetics. This unique combination of haptic sensing and optical transparency brings new possibilities in augmented reality, discreet health monitoring, and immersive wearable technology. In this talk, I will present our recent works on material innovation, sensing mechanisms, and device designs that achieve high transparency and spatial resolution. I will first introduce a novel sensor architecture engineered to minimize both electrical and mechanical crosstalk in high-density pressure sensor arrays, ensuring high-fidelity signal acquisition. Then, I will demonstrate how this platform can be extended to enable noncontact, active tracking of spatial position variations. In the last, I will highlight their emerging applications in wearable, contactless interactive systems that enable closed-loop human-machine interactions by providing real-time tactile feedback and control.
+        </span>
+        <button class="toggle-btn" onclick="toggleAbstract(this)">Show more</button>
+      </div>
+    </td> -->
+    <td class="abstract-column">Wearable tactile sensors are pivotal for bridging the physical and digital worlds, enabling intuitive and seamless interaction in next-generation human-machine interfaces (HMIs). The integration of transparency into these devices represents a breakthrough, allowing them to be imperceptibly embedded on skin, displays, and AR/VR optics without impairing visual experience or aesthetics. This unique combination of haptic sensing and optical transparency brings new possibilities in augmented reality, discreet health monitoring, and immersive wearable technology. In this talk, I will present our recent works on material innovation, sensing mechanisms, and device designs that achieve high transparency and spatial resolution. I will first introduce a novel sensor architecture engineered to minimize both electrical and mechanical crosstalk in high-density pressure sensor arrays, ensuring high-fidelity signal acquisition. Then, I will demonstrate how this platform can be extended to enable noncontact, active tracking of spatial position variations. In the last, I will highlight their emerging applications in wearable, contactless interactive systems that enable closed-loop human-machine interactions by providing real-time tactile feedback and control.</td>
+  </tr>
+  <tr>
+    <td class="time-column">10:00-10:20</td>
+    <td class="invite-column" rowspan="2" >Lightning Talks </td>
+    <td class="talk-column">Prof. Ming Jiang</td>
+    <td class="comments-column" rowspan="2">Order Maintenance: Dr. Gaoyang Pang</td>
+    <td class="abstract-column" rowspan="2">TBD</td>
+  </tr>
+  <tr>
+    <td class="time-column">10:00-10:20</td>
+    <!-- <td class="invite-column"></td> -->
+    <td class="talk-column">Prof. Murong Li</td>
+    <!-- <td class="comments-column">Order Maintenance: Dr. Gaoyang Pang</td> -->
+    <!-- <td class="abstract-column">TBD</td> -->
+  </tr>
+  <tr>
+    <td class="time-column" style="background-color: #f7f7f7;">10:20–10:40</td>
+    <!-- <td class="invite-column" style="background-color: #f7f7f7;"> </td> -->
+    <td class="time-column" style="background-color: #f7f7f7;" colspan="2">Coffee Break & Poster Session</td>
+    <td class="time-column" style="background-color: #f7f7f7;" colspan="2">Let’s chat and relax</td>
+    <!-- <td class="abstract-column"style="background-color: #f7f7f7;"></td> -->
+  </tr>
+  <tr>
+    <td class="time-column">10:40–11:00</td>
+    <td class="invite-column" rowspan="3"> Invitated Talk</td>
+    <td class="talk-column">Prof. Kaichen Xu: Multifunctional Flexible Sensors for Healthcare Robots (tentative)</td>
+    <td class="comments-column">Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
+    <td class="abstract-column" rowspan="3">TBD</td>
+  </tr>
+  <tr>
+    <td class="time-column">11:00–11:20</td>
+    <!-- <td class="invite-column">Invitated Talk </td> -->
+    <td class="talk-column">Prof. Yongjae Yoo: Developing AI-based Control and Interaction Techniques for a 4DoF Upper-Limb Rehabilitation Robots</td>
+    <td class="comments-column">Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
+    <!-- <td class="abstract-column"> </td> -->
+  </tr>
+  <tr>
+    <td class="time-column">11:20–11:40</td>
+    <!-- <td class="invite-column"> </td> -->
+    <td class="talk-column">Prof. Geng Yang: A Deep Learning-Enhanced Super-Resolution Tactile Sensor (tentative)</td>
+    <td class="comments-column">Should any additional speaker invitations be confirmed, the agenda will be updated accordingly.</td>
+    <!-- <td class="comments-column"> </td> -->
+  </tr>
+  <tr>
+    <td class="time-column">11:40–12:10</td>
+    <!-- <td class="invite-column"> </td> -->
+    <td class="talk-column" colspan="2">Interactive Session</td>
+    <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
+    <td class="comments-column"> </td>
+  </tr>
+  <tr>
+    <td class="time-column">12:10–12:30</td>
+    <!-- <td class="invite-column"> </td> -->
+    <td class="talk-column" colspan="2">Plenary, TC Action Planning and Wrap-Up</td>
+    <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
+    <td class="comments-column"> </td>
+  </tr>
+</table>
+<script src="/assets/js/toggle.js"></script>
+
+<b>Note: </b>If additional speaker invitations are confirmed, the agenda will be updated accordingly.
+
+<br>
+<br>
+<img src="assets/images/speakers.png" width="auto" height="auto" alt="speakers"/>
+
+<br>
+<br>
+<img src="assets/images/IEEE_RAS_TC.png" width="auto" height="auto" alt="the footer of page"/>
+
+<script src="assets/js/toggle.js"></script>
+</body>
+</html>
+
+
+
+
+
