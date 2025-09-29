@@ -379,15 +379,15 @@
   </tr>
   <tr>
     <td class="time-column">8:00–8:50</td>
-    <td class="invite-column"> </td>
-    <td class="talk-column">Registration</td>
+    <!-- <td class="invite-column"> </td> -->
+    <td class="talk-column" colspan="2">Registration</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
     <td class="abstract-column"> </td>
   </tr>
   <tr>
     <td class="time-column">8:50–9:00</td>
-    <td class="invite-column">  </td>
-    <td class="talk-column">Welcome and Introduction</td>
+    <!-- <td class="invite-column">  </td> -->
+    <td class="talk-column" colspan ="2">Welcome and Introduction</td>
     <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
     <td class="abstract-column"> </td>
   </tr>
@@ -450,7 +450,7 @@
   </tr>
   <tr>
     <td class="time-column" style="background-color: #f7f7f7;">10:20–10:40</td>
-    <td class="invite-column "style="background-color: #f7f7f7;"> </td>
+    <td class="invite-column" style="background-color: #f7f7f7;"> </td>
     <td class="time-column" style="background-color: #f7f7f7;">Coffee Break & Poster Session</td>
     <td class="time-column" style="background-color: #f7f7f7;" colspan="2">Let’s chat and relax</td>
     <!-- <td class="abstract-column"style="background-color: #f7f7f7;"></td> -->
@@ -478,15 +478,15 @@
   </tr>
   <tr>
     <td class="time-column">11:40–12:10</td>
-    <td class="invite-column"> </td>
-    <td class="talk-column">Interactive Session</td>
+    <!-- <td class="invite-column"> </td> -->
+    <td class="talk-column" colspan="2">Interactive Session</td>
     <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
     <td class="comments-column"> </td>
   </tr>
   <tr>
     <td class="time-column">12:10–12:30</td>
-    <td class="invite-column"> </td>
-    <td class="talk-column">Plenary, TC Action Planning and Wrap-Up</td>
+    <!-- <td class="invite-column"> </td> -->
+    <td class="talk-column" colspan="2">Plenary, TC Action Planning and Wrap-Up</td>
     <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
     <td class="comments-column"> </td>
   </tr>
