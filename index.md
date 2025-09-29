@@ -55,6 +55,27 @@
       text-align: justify;
       line-height: 1.2;
     }
+    /* Collapsible abstracts */
+    .abstract-column .abstract-collapsible { display: block; }
+    .abstract-column .abstract-content {
+      line-height: 1.6;
+      overflow: hidden;
+      max-height: none;               /* 初始不限制，JS 会设置 */
+      transition: max-height 240ms ease;
+    }
+    .abstract-column .abstract-toggle {
+      margin-top: 6px;
+      padding: 0;
+      background: none;
+      border: none;
+      color: #0366d6;
+      cursor: pointer;
+      font: inherit;
+    }
+    .abstract-column .abstract-toggle:focus {
+      outline: 2px solid #0366d6;
+      outline-offset: 2px;
+    }
     .toggle-btn {
       background: none;
       border: none;
@@ -450,8 +471,8 @@
   </tr>
   <tr>
     <td class="time-column" style="background-color: #f7f7f7;">10:20–10:40</td>
-    <td class="invite-column" style="background-color: #f7f7f7;"> </td>
-    <td class="time-column" style="background-color: #f7f7f7;">Coffee Break & Poster Session</td>
+    <!-- <td class="invite-column" style="background-color: #f7f7f7;"> </td> -->
+    <td class="time-column" style="background-color: #f7f7f7;" colspan="2">Coffee Break & Poster Session</td>
     <td class="time-column" style="background-color: #f7f7f7;" colspan="2">Let’s chat and relax</td>
     <!-- <td class="abstract-column"style="background-color: #f7f7f7;"></td> -->
   </tr>
@@ -503,6 +524,7 @@
 <br>
 <img src="assets/images/IEEE_RAS_TC.png" width="auto" height="auto" alt="the footer of page"/>
 
+<script src="assets/js/toggle.js"></script>
 </body>
 </html>
 
