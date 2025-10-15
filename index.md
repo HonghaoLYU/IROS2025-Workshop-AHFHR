@@ -287,31 +287,42 @@
         <img src="assets/images/Kaichen Xu.jpg" alt="Prof. Kaichen Xu"/>
       </div>
     </td>
-    <td style="width: 14%; text-align: center; padding: 5px;">
-      <div class="image-container">
-        <img src="assets/images/Yongjae Yoo.png" alt="Prof. Yongjae Yoo"/>
-      </div>
-    </td>
-    <td style="width: 14%; text-align: center; padding: 5px;">
-      <div class="image-container">
-        <img src="assets/images/Xinqin_Liao.jpg" alt="Xinqin Liao"/>
-      </div>
-    </td>
+
     <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Yunzhu_Li.png" alt="Yunzhu Li"/>
       </div>
     </td>
+
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Xinqin_Liao.jpg" alt="Xinqin Liao"/>
+      </div>
+    </td>
+
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Yongjae Yoo.png" alt="Prof. Yongjae Yoo"/>
+      </div>
+    </td>
+
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets\images\Jixiao Liu.jpg" alt="Jixiao Liu"/>
+      </div>
+    </td>
+    
     <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets\images\Li Jian.png" alt="Jian Li"/>
       </div>
     </td>
-    <td style="width: 15%; text-align: center; padding: 5px;">
+    
+    <!-- <td style="width: 15%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Yang Geng.jpg" alt="Geng Yang"/>
       </div>
-    </td>
+    </td> -->
   </tr>
   <!-- 第二行：文本 -->
   <tr>
@@ -336,20 +347,7 @@
         xukc@zju.edu.cn
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
-      <div>
-        <a href="https://milab.hanyang.ac.kr/home" target="_blank" rel="noopener">Prof. Yongjae Yoo</a><br>
-        Hanyang University<br>
-        yongjaeyoo@hanyang.ac.kr
-      </div>
-    </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
-      <div>
-        <a href="https://ese.xmu.edu.cn/info/1072/6024.htm" target="_blank" rel="noopener">Prof. Xinqin Liao</a><br>
-         Xiamen University<br>
-        liaoxinqin@<br>xmu.edu.cn
-      </div>
-    </td>
+
     <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
       <div>
         <a href="https://www.engineering.columbia.edu/faculty-staff/directory/yunzhu-li" target="_blank" rel="noopener">Prof. Yunzhu Li</a><br>
@@ -357,6 +355,31 @@
         yunzhu.li@<br>columbia.edu
       </div>
     </td>
+    
+    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
+      <div>
+        <a href="https://ese.xmu.edu.cn/info/1072/6024.htm" target="_blank" rel="noopener">Prof. Xinqin Liao</a><br>
+         Xiamen University<br>
+        liaoxinqin@<br>xmu.edu.cn
+      </div>
+    </td>
+
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+      <div>
+        <a href="https://milab.hanyang.ac.kr/home" target="_blank" rel="noopener">Prof. Yongjae Yoo</a><br>
+        Hanyang University<br>
+        yongjaeyoo@hanyang.ac.kr
+      </div>
+    </td>
+
+    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
+      <div>
+        <a href="https://teacher.hebut.edu.cn/publish/20151470d5a3fb8c11edab95286ed488d6f1068/index.html" target="_blank" rel="noopener">Prof. Jixiao Liu</a><br>
+         Hebei University Of Technology<br>
+        jixiao.tianjin@gmail.com
+      </div>
+    </td>
+    
     <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
       <div>
         <a href="https://scholars.cityu.edu.hk/en/persons/jli357/publications/" target="_blank" rel="noopener">Dr. Jian Li</a><br>
@@ -364,13 +387,14 @@
         jian.li@my.cityu.edu.hk
       </div>
     </td>
-    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+    
+    <!-- <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
       <div>
         <a href="http://www.fsie-zju.com/" target="_blank" rel="noopener">Prof. Geng Yang</a><br>
         Zhejiang University<br>
         yanggeng@zju.edu.cn
       </div>
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -527,6 +551,7 @@
 <script src="assets/js/toggle.js"></script>
 </body>
 </html>
+
 
 
 
