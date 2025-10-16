@@ -433,14 +433,31 @@
     <td class="time-column">8:50–9:00</td>
     <!-- <td class="invite-column">  </td> -->
     <td class="talk-column" colspan ="2">Welcome and Introduction</td>
-    <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
+    <td class="comments-column">Host: Prof. Yongjae Yoo</td>
     <td class="abstract-column"> </td>
   </tr>
+
   <tr>
-    <td class="time-column">9:00–9:20</td>
+    <td class="time-column">9:00–9:25</td>
+    <td class="invite-column" rowspan="3"> Invitated Talk</td>
+    <td class="talk-column">Prof. Kaichen Xu: Multifunctional Flexible Sensors for Healthcare Robots (tentative)</td>
+    <td class="comments-column">Host: Prof. Yongjae Yoo</td>
+    <td class="abstract-column">Achieving robust contact-rich manipulation requires more than accurate control — it depends on the ability to sense and interpret subtle physical interactions at scale. In this talk, I will present our work on scalable tactile sensing and learning frameworks that bring robots closer to human-like dexterity. We begin by uncovering the principles of human grasping with a scalable tactile glove built from dense tactile arrays, revealing how tactile signals guide object recognition and force regulation. Insights from the design and use of this glove inform the development of new dense, flexible, and low-cost tactile arrays that, when fused with visual perception, enable fine in-hand manipulation and safe interaction with fragile objects. We then scale up through both simulation and large-scale real-world data collection: in simulation, we use high-fidelity tactile models to refine visuo-tactile policies via reinforcement learning and achieve reliable sim-to-real transfer in bimanual assembly tasks; in the real world, we deploy a portable visuo-tactile gripper to capture diverse demonstrations “in the wild,” supporting robust representation learning and generalizable skill acquisition. Together, these efforts chart a path toward scalable, touch-enabled robots that tightly integrate sensing, control, and learning to master complex physical interactions.</td>
+  </tr>
+  
+  <tr>
+    <td class="time-column">9:25–9:50</td>
+    <!-- <td class="invite-column">Invited Talks </td> -->
+    <td class="talk-column">Prof. Yunzhu Li: Scalable Tactile Sensing and Learning for Contact-Rich Robotic Manipulation</td>
+    <td class="comments-column">Host: Prof. Yongjae Yoo</td>
+    <td class="abstract-column">TBD</td>
+  </tr>
+
+  <tr>
+    <td class="time-column">9:50–10:15</td>
     <td class="invite-column" rowspan="3">Invited Talks</td>
     <td class="talk-column">Prof. Xinqin Liao: Sequential Design and Functional Integration of Flexible Tactile Sensors</td>
-    <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
+    <td class="comments-column">Host: Prof. Yongjae Yoo</td>
     <!-- <td class="abstract-column">
       <div class="abstract">
         <span class="short-text">
@@ -452,87 +469,61 @@
         <button class="toggle-btn" onclick="toggleAbstract(this)">Show more</button>
       </div>
     </td> -->
-    <td class="abstract-column">Achieving robust contact-rich manipulation requires more than accurate control — it depends on the ability to sense and interpret subtle physical interactions at scale. In this talk, I will present our work on scalable tactile sensing and learning frameworks that bring robots closer to human-like dexterity. We begin by uncovering the principles of human grasping with a scalable tactile glove built from dense tactile arrays, revealing how tactile signals guide object recognition and force regulation. Insights from the design and use of this glove inform the development of new dense, flexible, and low-cost tactile arrays that, when fused with visual perception, enable fine in-hand manipulation and safe interaction with fragile objects. We then scale up through both simulation and large-scale real-world data collection: in simulation, we use high-fidelity tactile models to refine visuo-tactile policies via reinforcement learning and achieve reliable sim-to-real transfer in bimanual assembly tasks; in the real world, we deploy a portable visuo-tactile gripper to capture diverse demonstrations “in the wild,” supporting robust representation learning and generalizable skill acquisition. Together, these efforts chart a path toward scalable, touch-enabled robots that tightly integrate sensing, control, and learning to master complex physical interactions.</td>
-  </tr>
-  <tr>
-    <td class="time-column">9:20–9:40</td>
-    <!-- <td class="invite-column">Invited Talks </td> -->
-    <td class="talk-column">Prof. Yunzhu Li: Scalable Tactile Sensing and Learning for Contact-Rich Robotic Manipulation</td>
-    <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
-    <td class="abstract-column">TBD</td>
-  </tr>
-  <tr>
-    <td class="time-column">9:40-10:00</td>
-    <!-- <td class="invite-column"> Invited Talks</td> -->
-    <td class="talk-column">Dr. Jian Li: Wearable Transparent Tactile Sensors to Bridge Humans and Machines</td>
-    <td class="comments-column">Host: Dr. Honghao Lyu & Prof. Geng Yang</td>
-    <!-- <td class="abstract-column">
-      <div class="abstract">
-        <span class="short-text">
-          Wearable tactile sensors are pivotal for bridging the physical and digital worlds...
-        </span>
-        <span class="full-text" style="display: none;">
-          Wearable tactile sensors are pivotal for bridging the physical and digital worlds, enabling intuitive and seamless interaction in next-generation human-machine interfaces (HMIs). The integration of transparency into these devices represents a breakthrough, allowing them to be imperceptibly embedded on skin, displays, and AR/VR optics without impairing visual experience or aesthetics. This unique combination of haptic sensing and optical transparency brings new possibilities in augmented reality, discreet health monitoring, and immersive wearable technology. In this talk, I will present our recent works on material innovation, sensing mechanisms, and device designs that achieve high transparency and spatial resolution. I will first introduce a novel sensor architecture engineered to minimize both electrical and mechanical crosstalk in high-density pressure sensor arrays, ensuring high-fidelity signal acquisition. Then, I will demonstrate how this platform can be extended to enable noncontact, active tracking of spatial position variations. In the last, I will highlight their emerging applications in wearable, contactless interactive systems that enable closed-loop human-machine interactions by providing real-time tactile feedback and control.
-        </span>
-        <button class="toggle-btn" onclick="toggleAbstract(this)">Show more</button>
-      </div>
-    </td> -->
     <td class="abstract-column">Wearable tactile sensors are pivotal for bridging the physical and digital worlds, enabling intuitive and seamless interaction in next-generation human-machine interfaces (HMIs). The integration of transparency into these devices represents a breakthrough, allowing them to be imperceptibly embedded on skin, displays, and AR/VR optics without impairing visual experience or aesthetics. This unique combination of haptic sensing and optical transparency brings new possibilities in augmented reality, discreet health monitoring, and immersive wearable technology. In this talk, I will present our recent works on material innovation, sensing mechanisms, and device designs that achieve high transparency and spatial resolution. I will first introduce a novel sensor architecture engineered to minimize both electrical and mechanical crosstalk in high-density pressure sensor arrays, ensuring high-fidelity signal acquisition. Then, I will demonstrate how this platform can be extended to enable noncontact, active tracking of spatial position variations. In the last, I will highlight their emerging applications in wearable, contactless interactive systems that enable closed-loop human-machine interactions by providing real-time tactile feedback and control.</td>
   </tr>
-  <tr>
-    <td class="time-column">10:00-10:20</td>
-    <td class="invite-column" rowspan="2" >Lightning Talks </td>
-    <td class="talk-column">Prof. Ming Jiang</td>
-    <td class="comments-column" rowspan="2">Order Maintenance: Dr. Gaoyang Pang</td>
-    <td class="abstract-column" rowspan="2">TBD</td>
-  </tr>
-  <tr>
-    <td class="time-column">10:00-10:20</td>
-    <!-- <td class="invite-column"></td> -->
-    <td class="talk-column">Prof. Murong Li</td>
-    <!-- <td class="comments-column">Order Maintenance: Dr. Gaoyang Pang</td> -->
-    <!-- <td class="abstract-column">TBD</td> -->
-  </tr>
-  <tr>
-    <td class="time-column" style="background-color: #f7f7f7;">10:20–10:40</td>
+
+    <td class="time-column" style="background-color: #f7f7f7;">10:15–10:30</td>
     <!-- <td class="invite-column" style="background-color: #f7f7f7;"> </td> -->
     <td class="time-column" style="background-color: #f7f7f7;" colspan="2">Coffee Break & Poster Session</td>
     <td class="time-column" style="background-color: #f7f7f7;" colspan="2">Let’s chat and relax</td>
     <!-- <td class="abstract-column"style="background-color: #f7f7f7;"></td> -->
   </tr>
+
   <tr>
-    <td class="time-column">10:40–11:00</td>
-    <td class="invite-column" rowspan="3"> Invitated Talk</td>
-    <td class="talk-column">Prof. Kaichen Xu: Multifunctional Flexible Sensors for Healthcare Robots (tentative)</td>
-    <td class="comments-column">Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
-    <td class="abstract-column" rowspan="3">TBD</td>
+    <td class="time-column">10:30-10:40</td>
+    <td class="invite-column" rowspan="2" >Lightning Talks </td>
+    <td class="talk-column">Prof. Ming Jiang: Applications of Redundant Hybrid Actuators in Assistive Devices for Assist-as-Needed Strategy</td>
+    <td class="comments-column" rowspan="2">Host: Prof. Yongjae Yoo</td>
+    <td class="abstract-column" rowspan="2">TBD</td>
   </tr>
+  
   <tr>
-    <td class="time-column">11:00–11:20</td>
+    <td class="time-column">10:40–11:05</td>
     <!-- <td class="invite-column">Invitated Talk </td> -->
     <td class="talk-column">Prof. Yongjae Yoo: Developing AI-based Control and Interaction Techniques for a 4DoF Upper-Limb Rehabilitation Robots</td>
-    <td class="comments-column">Host: Dr. Gaoyang Pang & Prof. Yong-Lae Park</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu</td>
     <!-- <td class="abstract-column"> </td> -->
   </tr>
+  
   <tr>
-    <td class="time-column">11:20–11:40</td>
+    <td class="time-column">11:05–11:30</td>
     <!-- <td class="invite-column"> </td> -->
-    <td class="talk-column">Prof. Geng Yang: A Deep Learning-Enhanced Super-Resolution Tactile Sensor (tentative)</td>
-    <td class="comments-column">Should any additional speaker invitations be confirmed, the agenda will be updated accordingly.</td>
+    <td class="talk-column">Prof. Jixiao Liu: Tactile Intelligence System for Human–Robot Natural Physical Interactions (Remote)</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu</td>
     <!-- <td class="comments-column"> </td> -->
   </tr>
+
   <tr>
-    <td class="time-column">11:40–12:10</td>
+    <td class="time-column">11:30–11:55</td>
     <!-- <td class="invite-column"> </td> -->
-    <td class="talk-column" colspan="2">Interactive Session</td>
-    <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
-    <td class="comments-column"> </td>
+    <td class="talk-column">Dr. Jian Li:  Wearable Transparent Tactile Sensors to Bridge Humans and Machines</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu</td>
+    <!-- <td class="comments-column"> </td> -->
   </tr>
+
   <tr>
-    <td class="time-column">12:10–12:30</td>
+    <td class="time-column">11:55-12:05</td>
+    <td class="invite-column" rowspan="2" >Lightning Talks </td>
+    <td class="talk-column">Prof. Murong Li: Physics-Guided Surrogate for Real-Time Haptic Needle Insertion and Its Application in Needle Path Planning</td>
+    <td class="comments-column" rowspan="2">Host: Dr. Honghao Lyu</td>
+    <td class="abstract-column" rowspan="2">TBD</td>
+  </tr>
+  
+  <tr>
+    <td class="time-column">12:05–12:20</td>
     <!-- <td class="invite-column"> </td> -->
-    <td class="talk-column" colspan="2">Plenary, TC Action Planning and Wrap-Up</td>
-    <td class="comments-column">Host: Prof. Amy Kyungwon Han</td>
+    <td class="talk-column" colspan="2">Award Session: will relase the best paper, best paper finilists, best poster, best demo and the best presentation from all the submmsions</td>
+    <td class="comments-column">Host: Prof. Yongjae Yoo & Dr. Honghao Lyu</td>
     <td class="comments-column"> </td>
   </tr>
 </table>
@@ -551,6 +542,7 @@
 <script src="assets/js/toggle.js"></script>
 </body>
 </html>
+
 
 
 
