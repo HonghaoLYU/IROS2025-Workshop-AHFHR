@@ -447,7 +447,7 @@
   
   <tr>
     <td class="time-column">9:25–9:50</td>
-    <!-- <td class="invite-column">Invited Talks </td> -->
+    <!-- <td class="invite-column">Invited Talk </td> -->
     <td class="talk-column">Prof. Yunzhu Li: Scalable Tactile Sensing and Learning for Contact-Rich Robotic Manipulation (Remote)</td>
     <td class="comments-column">Host: Prof. Yongjae Yoo</td>
     <td class="abstract-column">TBD</td>
@@ -489,24 +489,24 @@
   
   <tr>
     <td class="time-column">10:40–11:05</td>
-    <td class="invite-column" rowspan="3">Invitated Talk</td>
+    <td class="invite-column" rowspan="3"> Invited Talk</td>
     <td class="talk-column">Prof. Yongjae Yoo: Developing AI-based Control and Interaction Techniques for a 4DoF Upper-Limb Rehabilitation Robots</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
-    <td class="abstract-column"> </td>
+    <td class="abstract-column">TBD</td>
   </tr>
   
   <tr>
     <td class="time-column">11:05–11:30</td>
     <td class="talk-column">Prof. Jixiao Liu: Tactile Intelligence System for Human–Robot Natural Physical Interactions (Remote)</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
-    <td class="comments-column"> </td>
+    <td class="comments-column">TBD</td>
   </tr>
 
   <tr>
     <td class="time-column">11:30–11:55</td>
     <td class="talk-column">Dr. Jian Li:  Wearable Transparent Tactile Sensors to Bridge Humans and Machines</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
-    <!-- <td class="comments-column"> </td> -->
+    <!-- <td class="comments-column">TBD </td> -->
   </tr>
 
   <tr>
@@ -539,6 +539,7 @@
 <script src="assets/js/toggle.js"></script>
 </body>
 </html>
+
 
 
 
