@@ -433,7 +433,7 @@
     <td class="time-column">8:50–9:00</td>
     <!-- <td class="invite-column">  </td> -->
     <td class="talk-column" colspan ="2">Welcome and Introduction</td>
-    <td class="comments-column">Host: Prof. Yongjae Yoo</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu</td>
     <td class="abstract-column"> </td>
   </tr>
 
@@ -539,6 +539,7 @@
 <script src="assets/js/toggle.js"></script>
 </body>
 </html>
+
 
 
 
