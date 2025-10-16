@@ -277,17 +277,18 @@
         <img src="assets/images/Won Soo Kim.jpg" alt="Prof. Woo Soo Kim"/>
       </div>
     </td> -->
-    <!-- <td style="width: 14%; text-align: center; padding: 5px;">
+    <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Michael C. Welle.png" alt="Dr. Michael C. Welle"/>
       </div>
-    </td> -->
-    <td style="width: 14%; text-align: center; padding: 5px;">
-      <div class="image-container">
-        <img src="assets/images/Kaichen Xu.jpg" alt="Prof. Kaichen Xu"/>
-      </div>
     </td>
 
+    <td style="width: 14%; text-align: center; padding: 5px;">
+      <div class="image-container">
+        <img src="assets/images/Xinqin_Liao.jpg" alt="Xinqin Liao"/>
+      </div>
+    </td>
+    
     <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
         <img src="assets/images/Yunzhu_Li.png" alt="Yunzhu Li"/>
@@ -296,7 +297,7 @@
 
     <td style="width: 14%; text-align: center; padding: 5px;">
       <div class="image-container">
-        <img src="assets/images/Xinqin_Liao.jpg" alt="Xinqin Liao"/>
+        <img src="assets/images/Kaichen Xu.jpg" alt="Prof. Kaichen Xu"/>
       </div>
     </td>
 
@@ -332,19 +333,21 @@
         Simon Fraser University<br>
         woosook@sfu.ca
       </div>
-    </td>
+    </td>  -->
+    
     <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
       <div>
         <a href="https://people.kth.se/~mwelle/" target="_blank" rel="noopener">Dr. Michael C. Welle</a><br>
         KTH royal institute of technology<br>
         mwelle@kth.se
       </div>
-    </td> -->
-    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
+    </td>
+
+    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
       <div>
-        <a href="https://blog.nus.edu.sg/xukaichen/" target="_blank" rel="noopener">Prof. Kaichen Xu</a><br>
-        Zhejiang University<br>
-        xukc@zju.edu.cn
+        <a href="https://ese.xmu.edu.cn/info/1072/6024.htm" target="_blank" rel="noopener">Prof. Xinqin Liao</a><br>
+         Xiamen University<br>
+        liaoxinqin@<br>xmu.edu.cn
       </div>
     </td>
 
@@ -355,12 +358,12 @@
         yunzhu.li@<br>columbia.edu
       </div>
     </td>
-    
-    <td style="text-align: center; padding: 5px; font-size: 14px;     vertical-align: top;">
+
+    <td style="text-align: center; padding: 5px; font-size: 14px; vertical-align: top;">
       <div>
-        <a href="https://ese.xmu.edu.cn/info/1072/6024.htm" target="_blank" rel="noopener">Prof. Xinqin Liao</a><br>
-         Xiamen University<br>
-        liaoxinqin@<br>xmu.edu.cn
+        <a href="https://blog.nus.edu.sg/xukaichen/" target="_blank" rel="noopener">Prof. Kaichen Xu</a><br>
+        Zhejiang University<br>
+        xukc@zju.edu.cn
       </div>
     </td>
 
@@ -528,6 +531,7 @@
 <script src="assets/js/toggle.js"></script>
 </body>
 </html>
+
 
 
 
