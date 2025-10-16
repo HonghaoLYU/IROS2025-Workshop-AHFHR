@@ -442,7 +442,7 @@
 
   <tr>
     <td class="time-column">8:35–9:00</td>
-    <td class="invite-column" rowspan="4"> Invited Talk</td>
+    <td class="invite-column" rowspan="4"> Invited Talks</td>
     <td class="talk-column">Dr. Michael C. Welle: Feeling & Force: Vision-Tactile Sensing and Torque Awareness for Delicate, Dexterous Manipulation</td>
     <td class="comments-column" rowspan="4">Host: Prof. Yongjae Yoo</td>
     <td class="abstract-column">TBD</td>
@@ -457,7 +457,7 @@
   
   <tr>
     <td class="time-column">9:25–9:50</td>
-    <!-- <td class="invite-column">Invited Talk </td> -->
+    <!-- <td class="invite-column">Invited Talks </td> -->
     <td class="talk-column">Prof. Yunzhu Li: Scalable Tactile Sensing and Learning for Contact-Rich Robotic Manipulation (Remote)</td>
     <!-- <td class="comments-column">Host: Prof. Yongjae Yoo</td> -->
     <td class="abstract-column">TBD</td>
@@ -481,7 +481,7 @@
   
   <tr>
     <td class="time-column">10:30–10:55</td>
-    <td class="invite-column" rowspan="3"> Invited Talk</td>
+    <td class="invite-column" rowspan="3"> Invited Talks</td>
     <td class="talk-column">Prof. Yongjae Yoo: Developing AI-based Control and Interaction Techniques for a 4DoF Upper-Limb Rehabilitation Robots</td>
     <td class="comments-column" rowspan="3">Host: Dr. Honghao Lyu</td>
     <td class="abstract-column">TBD</td>
@@ -504,7 +504,7 @@
 
   <tr>
     <td class="time-column">11:45-12:00</td>
-    <td class="invite-column" rowspan="2">Lightning Talk </td>
+    <td class="invite-column" rowspan="2">Lightning Talks </td>
     <td class="talk-column">Prof. Ming Jiang: Applications of Redundant Hybrid Actuators in Assistive Devices for Assist-as-Needed Strategy</td>
     <td class="comments-column" rowspan="2">Host: Dr. Honghao Lyu</td>
     <td class="abstract-column">TBD</td>
@@ -540,6 +540,7 @@
 <script src="assets/js/toggle.js"></script>
 </body>
 </html>
+
 
 
 
