@@ -448,7 +448,7 @@
   <tr>
     <td class="time-column">9:25–9:50</td>
     <!-- <td class="invite-column">Invited Talks </td> -->
-    <td class="talk-column">Prof. Yunzhu Li: Scalable Tactile Sensing and Learning for Contact-Rich Robotic Manipulation</td>
+    <td class="talk-column">Prof. Yunzhu Li: Scalable Tactile Sensing and Learning for Contact-Rich Robotic Manipulation (Remote)</td>
     <td class="comments-column">Host: Prof. Yongjae Yoo</td>
     <td class="abstract-column">TBD</td>
   </tr>
@@ -480,10 +480,10 @@
 
   <tr>
     <td class="time-column">10:30-10:40</td>
-    <td class="invite-column" rowspan="2" >Lightning Talks </td>
+    <td class="invite-column">Lightning Talks </td>
     <td class="talk-column">Prof. Ming Jiang: Applications of Redundant Hybrid Actuators in Assistive Devices for Assist-as-Needed Strategy</td>
-    <td class="comments-column" rowspan="2">Host: Prof. Yongjae Yoo</td>
-    <td class="abstract-column" rowspan="2">TBD</td>
+    <td class="comments-column">Host: Prof. Yongjae Yoo</td>
+    <td class="abstract-column">TBD</td>
   </tr>
   
   <tr>
@@ -491,20 +491,20 @@
     <td class="invite-column">Invitated Talk </td>
     <td class="talk-column">Prof. Yongjae Yoo: Developing AI-based Control and Interaction Techniques for a 4DoF Upper-Limb Rehabilitation Robots</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
-    <!-- <td class="abstract-column"> </td> -->
+    <td class="abstract-column"> </td>
   </tr>
   
   <tr>
     <td class="time-column">11:05–11:30</td>
-    <!-- <td class="invite-column"> </td> -->
+    <td class="invite-column">Invitated Talk </td>
     <td class="talk-column">Prof. Jixiao Liu: Tactile Intelligence System for Human–Robot Natural Physical Interactions (Remote)</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
-    <!-- <td class="comments-column"> </td> -->
+    <td class="comments-column"> </td>
   </tr>
 
   <tr>
     <td class="time-column">11:30–11:55</td>
-    <!-- <td class="invite-column"> </td> -->
+    <td class="invite-column">Invitated Talk </td>
     <td class="talk-column">Dr. Jian Li:  Wearable Transparent Tactile Sensors to Bridge Humans and Machines</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
     <!-- <td class="comments-column"> </td> -->
@@ -512,18 +512,18 @@
 
   <tr>
     <td class="time-column">11:55-12:05</td>
-    <td class="invite-column" rowspan="2" >Lightning Talks </td>
+    <td class="invite-column">Lightning Talks </td>
     <td class="talk-column">Prof. Murong Li: Physics-Guided Surrogate for Real-Time Haptic Needle Insertion and Its Application in Needle Path Planning</td>
-    <td class="comments-column" rowspan="2">Host: Dr. Honghao Lyu</td>
-    <td class="abstract-column" rowspan="2">TBD</td>
+    <td class="comments-column">Host: Dr. Honghao Lyu</td>
+    <td class="abstract-column">TBD</td>
   </tr>
   
   <tr>
     <td class="time-column">12:05–12:20</td>
-    <!-- <td class="invite-column"> </td> -->
+    <td class="invite-column"></td>
     <td class="talk-column" colspan="2">Award Session: will relase the best paper, best paper finilists, best poster, best demo and the best presentation from all the submmsions</td>
     <td class="comments-column">Host: Prof. Yongjae Yoo & Dr. Honghao Lyu</td>
-    <td class="comments-column"> </td>
+    <td class="abstract-column"></td>
   </tr>
 </table>
 <script src="/assets/js/toggle.js"></script>
@@ -541,6 +541,7 @@
 <script src="assets/js/toggle.js"></script>
 </body>
 </html>
+
 
 
 
