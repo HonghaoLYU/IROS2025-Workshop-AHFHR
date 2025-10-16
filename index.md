@@ -440,7 +440,7 @@
   <tr>
     <td class="time-column">9:00–9:25</td>
     <td class="invite-column" rowspan="3"> Invited Talk</td>
-    <td class="talk-column">Prof. Kaichen Xu: Multifunctional Flexible Sensors for Healthcare Robots (tentative)</td>
+    <td class="talk-column">Prof. Kaichen Xu: Design and Manufacturing of Flexible Intelligent Sensing Systems</td>
     <td class="comments-column">Host: Prof. Yongjae Yoo</td>
     <td class="abstract-column">Achieving robust contact-rich manipulation requires more than accurate control — it depends on the ability to sense and interpret subtle physical interactions at scale. In this talk, I will present our work on scalable tactile sensing and learning frameworks that bring robots closer to human-like dexterity. We begin by uncovering the principles of human grasping with a scalable tactile glove built from dense tactile arrays, revealing how tactile signals guide object recognition and force regulation. Insights from the design and use of this glove inform the development of new dense, flexible, and low-cost tactile arrays that, when fused with visual perception, enable fine in-hand manipulation and safe interaction with fragile objects. We then scale up through both simulation and large-scale real-world data collection: in simulation, we use high-fidelity tactile models to refine visuo-tactile policies via reinforcement learning and achieve reliable sim-to-real transfer in bimanual assembly tasks; in the real world, we deploy a portable visuo-tactile gripper to capture diverse demonstrations “in the wild,” supporting robust representation learning and generalizable skill acquisition. Together, these efforts chart a path toward scalable, touch-enabled robots that tightly integrate sensing, control, and learning to master complex physical interactions.</td>
   </tr>
@@ -499,14 +499,14 @@
     <td class="time-column">11:05–11:30</td>
     <td class="talk-column">Prof. Jixiao Liu: Tactile Intelligence System for Human–Robot Natural Physical Interactions (Remote)</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
-    <td class="comments-column">TBD</td>
+    <td class="abstract-column">TBD</td>
   </tr>
 
   <tr>
     <td class="time-column">11:30–11:55</td>
     <td class="talk-column">Dr. Jian Li:  Wearable Transparent Tactile Sensors to Bridge Humans and Machines</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
-    <!-- <td class="comments-column">TBD </td> -->
+    <td class="abstract-column">TBD</td>
   </tr>
 
   <tr>
@@ -539,6 +539,7 @@
 <script src="assets/js/toggle.js"></script>
 </body>
 </html>
+
 
 
 
