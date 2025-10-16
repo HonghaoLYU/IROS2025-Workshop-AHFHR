@@ -455,7 +455,6 @@
 
   <tr>
     <td class="time-column">9:50–10:15</td>
-    <td class="invite-column" rowspan="3">Invited Talks</td>
     <td class="talk-column">Prof. Xinqin Liao: Sequential Design and Functional Integration of Flexible Tactile Sensors</td>
     <td class="comments-column">Host: Prof. Yongjae Yoo</td>
     <!-- <td class="abstract-column">
@@ -489,7 +488,7 @@
   
   <tr>
     <td class="time-column">10:40–11:05</td>
-    <!-- <td class="invite-column">Invitated Talk </td> -->
+    <td class="invite-column">Invitated Talk </td>
     <td class="talk-column">Prof. Yongjae Yoo: Developing AI-based Control and Interaction Techniques for a 4DoF Upper-Limb Rehabilitation Robots</td>
     <td class="comments-column">Host: Dr. Honghao Lyu</td>
     <!-- <td class="abstract-column"> </td> -->
@@ -542,6 +541,7 @@
 <script src="assets/js/toggle.js"></script>
 </body>
 </html>
+
 
 
 
